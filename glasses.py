@@ -100,16 +100,16 @@ for tile in product_tiles:
 # Step 3 - Data Storage and Finalization
 # Save to CSV file
 column_name = glasses_data[0].keys() # get the column names
-with open('glassesdotcom_data.csv', mode='w', newline='', encoding='utf-8') as csv_file: # open up the file with context manager
+with open('./extracted_data/glassesdotcom_data.csv', mode='w', newline='', encoding='utf-8') as csv_file: # open up the file with context manager
     dict_writer = csv.DictWriter(csv_file, fieldnames=column_name)
     dict_writer.writeheader()
     dict_writer.writerows(glasses_data)
-print(f"Saved {len(glasses_data)} records to CSV")
+print(f"Saved {len(glasses_data)} records to CSV in the extracted data folder.")
 
 # Save to JSON file
-with open("glassesdotcom.json", mode='w') as json_file:
+with open("./extracted_data/glassesdotcom.json", mode='w') as json_file:
     json.dump(glasses_data, json_file, indent=4)
-print(f"Saved {len(glasses_data)} records to JSON")
+print(f"Saved {len(glasses_data)} records to JSON in the extracted data folder.")
 
 # close the browser
 driver.quit()
