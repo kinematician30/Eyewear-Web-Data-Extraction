@@ -1,0 +1,170 @@
+[
+    {
+        "brand": "Oakley",
+        "name": "Barrelhouse",
+        "former_price": null,
+        "current_price": 255.0,
+        "discount": null
+    },
+    {
+        "brand": "Oakley",
+        "name": "Socket 5.5",
+        "former_price": null,
+        "current_price": 227.0,
+        "discount": null
+    },
+    {
+        "brand": "Oakley",
+        "name": "Holbrook RX",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null
+    },
+    {
+        "brand": "Oakley",
+        "name": "Enigma Mass",
+        "former_price": null,
+        "current_price": 255.0,
+        "discount": null
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB6348D",
+        "former_price": 182.0,
+        "current_price": 127.4,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB3925V",
+        "former_price": 222.0,
+        "current_price": 155.4,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5446",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB8780D",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7017",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5154 Clubmaster",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null
+    },
+    {
+        "brand": "Persol",
+        "name": "PO3263V",
+        "former_price": null,
+        "current_price": 363.0,
+        "discount": null
+    },
+    {
+        "brand": "Versace",
+        "name": "VE1285",
+        "former_price": 300.0,
+        "current_price": 210.0,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Gucci",
+        "name": "GG1340O",
+        "former_price": 305.0,
+        "current_price": 259.25,
+        "discount": "15% Off"
+    },
+    {
+        "brand": "Kate Spade",
+        "name": "Lucyann",
+        "former_price": 230.0,
+        "current_price": 161.0,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Burberry",
+        "name": "BE2420",
+        "former_price": 421.0,
+        "current_price": 294.7,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Dolce & Gabbana",
+        "name": "DG3415",
+        "former_price": 335.0,
+        "current_price": 234.5,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Versace",
+        "name": "VE1175B",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Coach",
+        "name": "HC6065",
+        "former_price": 255.0,
+        "current_price": 178.5,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Giorgio Armani",
+        "name": "AR7202",
+        "former_price": 545.0,
+        "current_price": 381.5,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "RALPH by Ralph Lauren",
+        "name": "RA7158U",
+        "former_price": 141.0,
+        "current_price": 98.7,
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7047",
+        "former_price": null,
+        "current_price": 176.0,
+        "discount": null
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7140",
+        "former_price": null,
+        "current_price": 237.0,
+        "discount": null
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB6335",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5268",
+        "former_price": null,
+        "current_price": 176.0,
+        "discount": null
+    }
+]
