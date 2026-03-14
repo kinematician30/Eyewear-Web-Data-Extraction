@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
-# Setup Selenium and WebDriver
+# Setup Selenium WebDriver
 print("Setting up WebDriver...")
 chrome_options = Options()
 chrome_options.add_argument("--headless")
@@ -87,7 +87,8 @@ for product in all_products:
         discount_tag = glasses_price_discount.find('div', class_='frame-discount size-11')
         discount = discount_tag.text if discount_tag else None
         discount = None if not discount or discount.strip() == "" else discount.strip()
-        discount = discount.replace(" off", "") if discount is not None else None
+        discount = re.sub(r"\s*off\s*", "", discount, flags=re.IGNORECASE) if discount else None
+
     else:
         continue
     

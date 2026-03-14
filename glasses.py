@@ -10,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
-# Step 1 - Configuration and Data Fetching
-# Setup Selenium and WebDriver
+# Step 1 - Configuration and Setup
+# Setup Selenium WebDriver
 print("Setting up webdriver...")
 chrome_option = Options()
 chrome_option.add_argument('--headless')
@@ -19,7 +19,7 @@ chrome_option.add_argument('--disable-gpu')
 chrome_option.add_argument(
     "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36"
 )
-print("done setting up..")
+print("WebDriver Configuration Done..")
 
 # Install the chrome driver (This is a one time thing)
 print("Installing Chrome WD")
