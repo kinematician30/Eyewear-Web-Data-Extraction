@@ -1,0 +1,541 @@
+source,brand,name,former_price,current_price,discount,product_link,page,discount_pct,price_ok,match_key,sold_by_n_sites,savings,on_sale,scraped_at
+eyebuydirect,5-to-see,Moringa,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/moringa-abyssal-blue-l-22122,10,,True,5-to-see|moringa,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Abazam,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/abazam-rose-gold-m-22159,9,,True,eyebuydirect|abazam,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Above,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/above-gunmetal-l-17587,4,,True,eyebuydirect|above,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Absolutely,,66.0,,https://www.eyebuydirect.com/eyeglasses/frames/absolutely-tortoise-s-19177,4,,True,eyebuydirect|absolutely,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Acer,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/acer-crystal-nude-l-26450,7,,True,eyebuydirect|acer,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Actor,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/actor-black-gold-l-24119,7,,True,eyebuydirect|actor,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Adriatic,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/adriatic-tortoise-l-23269,9,,True,eyebuydirect|adriatic,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Aesthetic,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/aesthetic-gold-xl-23123,9,,True,eyebuydirect|aesthetic,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Agility,59.0,42.0,30%,https://www.eyebuydirect.com/eyeglasses/frames/agility-solid-black-l-25516,4,30.0,True,eyebuydirect|agility,1,17.0,True,2026-09-11
+eyebuydirect,EyeBuyDirect,Aiko,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/aiko-matte-rose-gold-m-27357,6,,True,eyebuydirect|aiko,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Alchemist,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/alchemist-black-m-19850,9,,True,eyebuydirect|alchemist,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Alette,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/alette-clear-purple-s-20656,10,,True,eyebuydirect|alette,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Algorithm,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/algorithm-gunmetal-l-18619,1,,True,eyebuydirect|algorithm,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Altar,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/altar-pink-gold-l-21742,8,,True,eyebuydirect|altar,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Amity,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/amity-clear-s-29606,1,,True,eyebuydirect|amity,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Amore,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/amore-rose-gold-m-22245,3,,True,eyebuydirect|amore,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Aroma,,63.0,,https://www.eyebuydirect.com/eyeglasses/frames/aroma-tortoise-green-s-29604,2,,True,eyebuydirect|aroma,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ashby,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/ashby-tortoise-l-23896,1,,True,eyebuydirect|ashby,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ashley,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/ashley-tortoise-xl-22106,10,,True,eyebuydirect|ashley,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Astera,,66.0,,https://www.eyebuydirect.com/eyeglasses/frames/astera-crystal-green-m-25679,4,,True,eyebuydirect|astera,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Athena,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/athena-rose-gold-m-20525,8,,True,eyebuydirect|athena,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Attitude,,66.0,,https://www.eyebuydirect.com/eyeglasses/frames/attitude-pink-ivory-tortoise-l-22407,1,,True,eyebuydirect|attitude,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Aven,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/aven-tortoise-m-30082,1,,True,eyebuydirect|aven,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ballast,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/ballast-black-l-19932,6,,True,eyebuydirect|ballast,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Barclay,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/barclay-brown-l-29688,9,,True,eyebuydirect|barclay,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Bardot,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/bardot-ivory-tortoise-m-16557,4,,True,eyebuydirect|bardot,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Beau,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/beau-black-s-18977,3,,True,eyebuydirect|beau,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Belleville,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/belleville-bronze-m-17931,5,,True,eyebuydirect|belleville,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Biblio,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/biblio-black-l-20489,8,,True,eyebuydirect|biblio,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Billings,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/billings-black-m-6486,10,,True,eyebuydirect|billings,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Bistro,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/bistro-golden-l-20190,7,,True,eyebuydirect|bistro,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Blair,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/blair-silver-s-32402,5,,True,eyebuydirect|blair,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Blizzard,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/blizzard-black-m-13481,5,,True,eyebuydirect|blizzard,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Borderline,,79.0,,https://www.eyebuydirect.com/eyeglasses/frames/borderline-black-l-17359,3,,True,eyebuydirect|borderline,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Botanist,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/botanist-gray-brown-m-19654,1,,True,eyebuydirect|botanist,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Bowen,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/bowen-brown-s-32463,9,,True,eyebuydirect|bowen,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Bristol,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/bristol-matte-black-l-13603,1,,True,eyebuydirect|bristol,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Brittany,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/brittany-clear-blue-m-15663,6,,True,eyebuydirect|brittany,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Brooklyn,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/brooklyn-green-s-32474,4,,True,eyebuydirect|brooklyn,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Bubbles,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/bubbles-clear-pink-xs-27979,2,,True,eyebuydirect|bubbles,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Cali,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/cali-ivory-tortoise-s-23475,10,,True,eyebuydirect|cali,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,California,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/california-clear-xl-23246,3,,True,eyebuydirect|california,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Calvo,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/calvo-green-l-29782,6,,True,eyebuydirect|calvo,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Cambridge,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/cambridge-black-s-12501,5,,True,eyebuydirect|cambridge,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Canvas,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/canvas-black-l-22012,6,,True,eyebuydirect|canvas,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Carbon,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/carbon-black-m-23594,3,,True,eyebuydirect|carbon,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Carey,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/carey-gold-l-32405,8,,True,eyebuydirect|carey,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Carola,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/carola-clear-yellow-m-23867,8,,True,eyebuydirect|carola,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Cassie,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/cassie-ivory-tortoise-l-23477,2,,True,eyebuydirect|cassie,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Castle,,79.0,,https://www.eyebuydirect.com/eyeglasses/frames/castle-gunmetal-xl-20694,10,,True,eyebuydirect|castle,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Cecilia,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/cecilia-raspberry-s-32468,4,,True,eyebuydirect|cecilia,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Chai,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/chai-rose-gold-l-32408,3,,True,eyebuydirect|chai,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Chandler,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/chandler-tortoise-m-32477,4,,True,eyebuydirect|chandler,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Charlize,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/charlize-tortoise-m-16381,5,,True,eyebuydirect|charlize,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Charlotte,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/charlotte-clear-pink-s-22352,8,,True,eyebuydirect|charlotte,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Chief,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/chief-brown-m-20099,9,,True,eyebuydirect|chief,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Claudia,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/claudia-black-m-12737,6,,True,eyebuydirect|claudia,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Clayton,,79.0,,https://www.eyebuydirect.com/eyeglasses/frames/clayton-dark-green-gold-xl-24129,8,,True,eyebuydirect|clayton,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Clever,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/clever-tortoise-m-21430,6,,True,eyebuydirect|clever,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Clinton,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/clinton-gunmetal-l-15097,2,,True,eyebuydirect|clinton,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Coexist,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/coexist-black-silver-m-15587,1,,True,eyebuydirect|coexist,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Coppi Clip-On,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/coppi-clip-on-red-l-29741,9,,True,eyebuydirect|coppi clip-on,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Corey,,66.0,,https://www.eyebuydirect.com/eyeglasses/frames/corey-tortoise-l-22024,8,,True,eyebuydirect|corey,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Courser,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/courser-rose-gold-l-20229,4,,True,eyebuydirect|courser,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Crescendo,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/crescendo-clear-pink-m-23871,2,,True,eyebuydirect|crescendo,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Cupertino,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/cupertino-black-s-19207,2,,True,eyebuydirect|cupertino,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Cymric,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/cymric-black-l-24906,5,,True,eyebuydirect|cymric,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Dana,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/dana-clear-brown-l-32491,9,,True,eyebuydirect|dana,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Danni,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/danni-gray-m-32495,4,,True,eyebuydirect|danni,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Dapper,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/dapper-rose-gold-l-20352,8,,True,eyebuydirect|dapper,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Darren,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/darren-gray-m-32497,5,,True,eyebuydirect|darren,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Davis,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/davis-silver-l-32413,3,,True,eyebuydirect|davis,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Daydream,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/daydream-brown-golden-s-16291,4,,True,eyebuydirect|daydream,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Dearly,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/dearly-tortoise-l-21724,7,,True,eyebuydirect|dearly,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Delancey,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/delancey-tortoise-gold-l-24153,9,,True,eyebuydirect|delancey,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Demo,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/demo-gray-m-20077,6,,True,eyebuydirect|demo,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Denny,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/denny-black-gray-m-15167,1,,True,eyebuydirect|denny,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Discover,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/discover-matte-silver-l-19167,7,,True,eyebuydirect|discover,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Dotti,,66.0,,https://www.eyebuydirect.com/eyeglasses/frames/dotti-tortoise-gold-m-24102,5,,True,eyebuydirect|dotti,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Dulce,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/dulce-blue-m-20597,10,,True,eyebuydirect|dulce,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Earl,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/earl-navy-m-19780,8,,True,eyebuydirect|earl,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Effect,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/effect-tortoise-l-22003,2,,True,eyebuydirect|effect,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Elliot,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/elliot-blue-m-32516,5,,True,eyebuydirect|elliot,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ellipse,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/ellipse-tortoise-xl-23919,4,,True,eyebuydirect|ellipse,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ember,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/ember-matte-black-l-18789,1,,True,eyebuydirect|ember,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Emerson,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/emerson-purple-l-32532,6,,True,eyebuydirect|emerson,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Emory,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/emory-black-coffee-m-18457,2,,True,eyebuydirect|emory,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Emotion,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/emotion-light-gold-xl-22393,7,,True,eyebuydirect|emotion,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Epilogue,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/epilogue-black-m-18891,5,,True,eyebuydirect|epilogue,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Equality,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/equality-blue-s-21358,4,,True,eyebuydirect|equality,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Escape,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/escape-matte-pink-m-18875,3,,True,eyebuydirect|escape,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Etymology,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/etymology-light-gold-xl-22390,9,,True,eyebuydirect|etymology,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Fame,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/fame-golden-l-20224,1,,True,eyebuydirect|fame,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Farah,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/farah-clear-brown-s-32528,4,,True,eyebuydirect|farah,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Fathom,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/fathom-bronze-black-l-20114,5,,True,eyebuydirect|fathom,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Feline,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/feline-rose-gold-m-19807,6,,True,eyebuydirect|feline,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ferb,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/ferb-clear-champagne-xs-28101,5,,True,eyebuydirect|ferb,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ferguson,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/ferguson-gray-m-32534,6,,True,eyebuydirect|ferguson,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Finn,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/finn-black-l-21730,4,,True,eyebuydirect|finn,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Fitzgerald,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/fitzgerald-bronze-s-13403,8,,True,eyebuydirect|fitzgerald,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Follow,,79.0,,https://www.eyebuydirect.com/eyeglasses/frames/follow-black-golden-l-20401,4,,True,eyebuydirect|follow,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Forte,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/forte-clear-l-21349,7,,True,eyebuydirect|forte,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Foundry,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/foundry-black-l-18791,7,,True,eyebuydirect|foundry,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Francisco,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/francisco-clear-green-l-23464,5,,True,eyebuydirect|francisco,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Franky,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/franky-clear-l-32538,5,,True,eyebuydirect|franky,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Furnace,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/furnace-black-red-l-23900,7,,True,eyebuydirect|furnace,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Gable,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/gable-ivory-tortoise-s-21725,4,,True,eyebuydirect|gable,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Gadsby,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/gadsby-silver-l-30230,6,,True,eyebuydirect|gadsby,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Gale,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/gale-black-xl-32547,4,,True,eyebuydirect|gale,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Garance,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/garance-black-gold-l-21550,3,,True,eyebuydirect|garance,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Gaston,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/gaston-clear-brown-l-27988,3,,True,eyebuydirect|gaston,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Gato,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/gato-tortoise-m-20682,5,,True,eyebuydirect|gato,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Generous,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/generous-matte-gold-l-21876,9,,True,eyebuydirect|generous,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Giverny,73.0,52.0,30%,https://www.eyebuydirect.com/eyeglasses/frames/giverny-clear-l-20927,7,30.0,True,eyebuydirect|giverny,1,21.0,True,2026-09-11
+eyebuydirect,EyeBuyDirect,Glance,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/glance-gold-xl-32426,4,,True,eyebuydirect|glance,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Glen,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/glen-brown-l-32427,7,,True,eyebuydirect|glen,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Glister,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/glister-iridescent-purple-m-23140,6,,True,eyebuydirect|glister,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Granada,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/granada-dark-brown-l-23852,9,,True,eyebuydirect|granada,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Greta,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/greta-clear-pink-s-21564,8,,True,eyebuydirect|greta,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Groundbreaker,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/groundbreaker-tortoise-s-30258,3,,True,eyebuydirect|groundbreaker,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Gustave,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/gustave-black-gold-l-23185,10,,True,eyebuydirect|gustave,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Hadley,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/hadley-clear-gold-l-24111,9,,True,eyebuydirect|hadley,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Haiku,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/haiku-gold-m-23456,2,,True,eyebuydirect|haiku,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Haley,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/haley-purple-s-32820,10,,True,eyebuydirect|haley,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Halo,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/halo-clear-green-m-32813,3,,True,eyebuydirect|halo,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Heather,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/heather-tortoise-l-21968,5,,True,eyebuydirect|heather,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Helena,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/helena-green-tortoise-m-32637,4,,True,eyebuydirect|helena,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Hepburn,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/hepburn-clear-blue-s-28098,1,,True,eyebuydirect|hepburn,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Her,,66.0,,https://www.eyebuydirect.com/eyeglasses/frames/her-black-s-13597,10,,True,eyebuydirect|her,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Hollie,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/hollie-green-xl-20470,2,,True,eyebuydirect|hollie,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Hollis,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/hollis-tortoise-gold-l-24145,6,,True,eyebuydirect|hollis,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Holmes,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/holmes-brown-m-20143,8,,True,eyebuydirect|holmes,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,House,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/house-gradient-brown-l-22443,3,,True,eyebuydirect|house,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Hubris,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/hubris-black-floral-s-19043,2,,True,eyebuydirect|hubris,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Iconic,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/iconic-tortoise-silver-l-22480,8,,True,eyebuydirect|iconic,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Imagine,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/imagine-bronze-xl-23842,6,,True,eyebuydirect|imagine,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ines,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/ines-black-gold-m-23700,4,,True,eyebuydirect|ines,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Inscription,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/inscription-silver-l-18825,3,,True,eyebuydirect|inscription,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Intense,,56.0,,https://www.eyebuydirect.com/eyeglasses/frames/intense-matte-black-golden-m-15791,2,,True,eyebuydirect|intense,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Jam,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/jam-clear-green-l-28097,4,,True,eyebuydirect|jam,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Jamie,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/jamie-clear-brown-m-20379,4,,True,eyebuydirect|jamie,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Jasmine,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/jasmine-black-s-22401,2,,True,eyebuydirect|jasmine,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Java,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/java-black-s-18093,7,,True,eyebuydirect|java,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Kenneth,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/kenneth-tortoise-l-21987,3,,True,eyebuydirect|kenneth,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Kinetic,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/kinetic-matte-gunmetal-l-23593,5,,True,eyebuydirect|kinetic,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Kit,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/kit-dark-tortoise-l-22563,5,,True,eyebuydirect|kit,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Kyoto,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/kyoto-black-m-16925,7,,True,eyebuydirect|kyoto,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Lance,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/lance-black-m-32561,7,,True,eyebuydirect|lance,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Latitude,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/latitude-clear-brown-l-23243,3,,True,eyebuydirect|latitude,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Latte,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/latte-black-s-22749,2,,True,eyebuydirect|latte,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Leap,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/leap-blue-xs-21126,10,,True,eyebuydirect|leap,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Ledger,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/ledger-golden-s-18895,9,,True,eyebuydirect|ledger,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Lena,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/lena-clear-beige-s-21712,2,,True,eyebuydirect|lena,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Lenny,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/lenny-tortoise-l-21770,8,,True,eyebuydirect|lenny,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Lior,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/lior-tortoise-l-28474,3,,True,eyebuydirect|lior,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Liora,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/liora-gold-l-30081,7,,True,eyebuydirect|liora,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Little Bristol,,19.0,,https://www.eyebuydirect.com/eyeglasses/frames/little-bristol-black-s-19667,1,,True,eyebuydirect|little bristol,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Little Charlotte,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/little-charlotte-pink-xs-20954,8,,True,eyebuydirect|little charlotte,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Little John,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/little-john-black-xs-15569,2,,True,eyebuydirect|little john,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Lucia,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/lucia-champagne-m-20308,2,,True,eyebuydirect|lucia,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Maggie,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/maggie-purple-m-22674,10,,True,eyebuydirect|maggie,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Manchester,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/manchester-black-silver-m-17485,5,,True,eyebuydirect|manchester,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Mandi,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/mandi-black-s-12743,2,,True,eyebuydirect|mandi,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Marilou,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/marilou-clear-cobalt-s-19501,10,,True,eyebuydirect|marilou,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Marion,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/marion-pink-tortoise-s-21710,7,,True,eyebuydirect|marion,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Market,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/market-silver-m-16375,3,,True,eyebuydirect|market,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Marlowe,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/marlowe-tortoise-s-28485,2,,True,eyebuydirect|marlowe,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Maxwell,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/maxwell-black-xl-21694,10,,True,eyebuydirect|maxwell,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Mel,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/mel-gunmetal-m-13309,6,,True,eyebuydirect|mel,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Meridian,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/meridian-black-m-22757,8,,True,eyebuydirect|meridian,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Mikoto,53.0,38.0,30%,https://www.eyebuydirect.com/eyeglasses/frames/mikoto-light-brown-m-21733,7,30.0,True,eyebuydirect|mikoto,1,15.0,True,2026-09-11
+eyebuydirect,EyeBuyDirect,Milner,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/milner-gold-green-l-23976,7,,True,eyebuydirect|milner,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Modern,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/modern-clear-pink-m-23876,8,,True,eyebuydirect|modern,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Modernity,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/modernity-tortoise-gold-l-22899,9,,True,eyebuydirect|modernity,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Moon River,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/moon-river-clear-green-l-20686,9,,True,eyebuydirect|moon river,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Morgan,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/morgan-silver-l-32603,9,,True,eyebuydirect|morgan,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Morla,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/morla-tortoise-m-16031,5,,True,eyebuydirect|morla,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Morning,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/morning-warm-tortoise-s-29600,2,,True,eyebuydirect|morning,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Movement,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/movement-gold-s-29609,3,,True,eyebuydirect|movement,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Murphy,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/murphy-tortoise-xl-21753,9,,True,eyebuydirect|murphy,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Nala,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/nala-clear-pink-m-20456,2,,True,eyebuydirect|nala,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Nantes,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/nantes-silver-xl-15747,5,,True,eyebuydirect|nantes,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Nebulous,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/nebulous-clear-brown-l-21700,3,,True,eyebuydirect|nebulous,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Nina,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/nina-crystal-olive-green-s-25390,9,,True,eyebuydirect|nina,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Nobel,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/nobel-clear-green-l-23479,2,,True,eyebuydirect|nobel,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,North,,79.0,,https://www.eyebuydirect.com/eyeglasses/frames/north-tortoise-m-20583,6,,True,eyebuydirect|north,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Notting Hill,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/notting-hill-ivory-tortoise-s-13359,2,,True,eyebuydirect|notting hill,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Noun,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/noun-ivory-tortoise-m-23027,3,,True,eyebuydirect|noun,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Novel,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/novel-black-m-20192,8,,True,eyebuydirect|novel,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,November,,9.0,,https://www.eyebuydirect.com/eyeglasses/frames/november-matte-black-m-19161,1,,True,eyebuydirect|november,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Oak,39.0,20.0,50%,https://www.eyebuydirect.com/eyeglasses/frames/oak-crystal-yellow-m-26454,8,50.0,True,eyebuydirect|oak,1,19.0,True,2026-09-11
+eyebuydirect,EyeBuyDirect,Octave,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/octave-golden-m-29714,1,,True,eyebuydirect|octave,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Owen,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/owen-black-l-21672,10,,True,eyebuydirect|owen,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Pacific,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/pacific-black-m-28073,1,,True,eyebuydirect|pacific,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Palo Alto,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/palo-alto-golden-m-19748,2,,True,eyebuydirect|palo alto,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Panoply,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/panoply-clear-pink-m-23865,10,,True,eyebuydirect|panoply,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Passion,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/passion-tortoise-m-21392,5,,True,eyebuydirect|passion,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Patti,,66.0,,https://www.eyebuydirect.com/eyeglasses/frames/patti-crystal-beige-m-25392,10,,True,eyebuydirect|patti,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Pearl,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/pearl-red-m-18297,8,,True,eyebuydirect|pearl,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Perceive,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/perceive-black-gunmetal-m-19818,6,,True,eyebuydirect|perceive,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Percy,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/percy-light-golden-m-19759,1,,True,eyebuydirect|percy,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Petal,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/petal-pink-tortoise-m-20710,10,,True,eyebuydirect|petal,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Phoenix,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/phoenix-tortoise-s-20519,6,,True,eyebuydirect|phoenix,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Pickering,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/pickering-gunmetal-l-12007,8,,True,eyebuydirect|pickering,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Positivity,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/positivity-orange-pink-l-27710,8,,True,eyebuydirect|positivity,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Primo,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/primo-silver-m-19764,2,,True,eyebuydirect|primo,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Primrose,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/primrose-tortoise-m-16545,2,,True,eyebuydirect|primrose,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Prologue,43.0,31.0,30%,https://www.eyebuydirect.com/eyeglasses/frames/prologue-cream-m-19644,10,30.0,True,eyebuydirect|prologue,1,12.0,True,2026-09-11
+eyebuydirect,EyeBuyDirect,Pursuit,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/pursuit-purple-m-20786,7,,True,eyebuydirect|pursuit,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Quartet,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/quartet-clear-s-20950,10,,True,eyebuydirect|quartet,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Quentin,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/quentin-tortoise-gold-l-24155,4,,True,eyebuydirect|quentin,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Quill,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/quill-tortoise-l-20153,2,,True,eyebuydirect|quill,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Redford,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/redford-silver-l-29667,10,,True,eyebuydirect|redford,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Relive,,79.0,,https://www.eyebuydirect.com/eyeglasses/frames/relive-black-silver-l-19894,6,,True,eyebuydirect|relive,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Renaissance,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/renaissance-black-gold-l-22423,6,,True,eyebuydirect|renaissance,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Restore,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/restore-tortoise-m-30322,6,,True,eyebuydirect|restore,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Rhode Island,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/rhode-island-clear-s-19596,9,,True,eyebuydirect|rhode island,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Roman,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/roman-silver-xl-21605,7,,True,eyebuydirect|roman,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Romy,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/romy-ivory-tortoise-m-27986,1,,True,eyebuydirect|romy,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Rowen,,36.0,,https://www.eyebuydirect.com/eyeglasses/frames/rowen-crystal-dark-green-l-26446,4,,True,eyebuydirect|rowen,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Saturday,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/saturday-black-xl-25989,10,,True,eyebuydirect|saturday,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Saunter,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/saunter-swirled-amber-s-18759,6,,True,eyebuydirect|saunter,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Savvy,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/savvy-tortoise-xs-29601,3,,True,eyebuydirect|savvy,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Sebastian,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/sebastian-tortoise-l-19971,3,,True,eyebuydirect|sebastian,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Shallows,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/shallows-blue-xs-19630,7,,True,eyebuydirect|shallows,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Sing,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/sing-clear-purple-m-22206,9,,True,eyebuydirect|sing,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Sixto,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/sixto-coffee-xl-21972,2,,True,eyebuydirect|sixto,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Sloane,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/sloane-light-tortoise-s-28454,3,,True,eyebuydirect|sloane,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Snap,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/snap-tortoise-s-21467,8,,True,eyebuydirect|snap,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Soar,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/soar-silver-m-20304,3,,True,eyebuydirect|soar,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,South,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/south-gunmetal-s-17237,7,,True,eyebuydirect|south,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Spencer,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/spencer-black-l-21053,1,,True,eyebuydirect|spencer,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Spoken,,29.0,,https://www.eyebuydirect.com/eyeglasses/frames/spoken-black-s-20158,9,,True,eyebuydirect|spoken,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,St Michel,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/st-michel-golden-s-19638,1,,True,eyebuydirect|st michel,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Star,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/star-rose-gold-l-20007,8,,True,eyebuydirect|star,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Steps,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/steps-purple-xs-21122,5,,True,eyebuydirect|steps,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Stride,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/stride-tortoise-m-20145,4,,True,eyebuydirect|stride,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Studio,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/studio-coffee-l-20346,7,,True,eyebuydirect|studio,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Sublime,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/sublime-black-golden-m-16977,10,,True,eyebuydirect|sublime,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Suki,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/suki-crystal-red-xl-25182,5,,True,eyebuydirect|suki,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Surrey,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/surrey-burgundy-m-23893,1,,True,eyebuydirect|surrey,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Suze,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/suze-matte-black-xl-24858,1,,True,eyebuydirect|suze,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Synapse,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/synapse-rose-gold-l-19785,4,,True,eyebuydirect|synapse,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Takashi,,39.0,,https://www.eyebuydirect.com/eyeglasses/frames/takashi-green-gold-xl-21835,8,,True,eyebuydirect|takashi,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Team,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/team-matte-black-l-22600,9,,True,eyebuydirect|team,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Terrain,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/terrain-black-tortoise-l-23996,8,,True,eyebuydirect|terrain,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Thinker,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/thinker-clear-pink-xs-20848,10,,True,eyebuydirect|thinker,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Thomas,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/thomas-matte-black-m-16469,4,,True,eyebuydirect|thomas,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Time,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/time-black-m-17499,1,,True,eyebuydirect|time,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Time Square,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/time-square-black-m-13103,10,,True,eyebuydirect|time square,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Tower,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/tower-tortoise-l-20718,1,,True,eyebuydirect|tower,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Unique,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/unique-tortoise-l-22096,4,,True,eyebuydirect|unique,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Urban,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/urban-black-l-19944,5,,True,eyebuydirect|urban,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Variable,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/variable-black-m-18499,5,,True,eyebuydirect|variable,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Video,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/video-matte-blue-l-24225,7,,True,eyebuydirect|video,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Vienna,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/vienna-gray-m-18923,9,,True,eyebuydirect|vienna,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Vigo,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/vigo-black-l-20638,6,,True,eyebuydirect|vigo,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Vince,,43.0,,https://www.eyebuydirect.com/eyeglasses/frames/vince-gunmetal-m-19774,9,,True,eyebuydirect|vince,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Vinyl,,46.0,,https://www.eyebuydirect.com/eyeglasses/frames/vinyl-clear-light-brown-s-28109,1,,True,eyebuydirect|vinyl,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Vista,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/vista-floral-s-21574,5,,True,eyebuydirect|vista,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Vivienne,,59.0,,https://www.eyebuydirect.com/eyeglasses/frames/vivienne-tortoise-m-25708,7,,True,eyebuydirect|vivienne,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Whitmore,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/whitmore-tortoise-l-31524,6,,True,eyebuydirect|whitmore,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Whoosh,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/whoosh-gray-green-m-31418,7,,True,eyebuydirect|whoosh,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Winefred,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/winefred-clear-l-29669,6,,True,eyebuydirect|winefred,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Wistful,,49.0,,https://www.eyebuydirect.com/eyeglasses/frames/wistful-coffee-xs-29605,3,,True,eyebuydirect|wistful,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Wit,,33.0,,https://www.eyebuydirect.com/eyeglasses/frames/wit-gunmetal-m-20088,1,,True,eyebuydirect|wit,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Woodrow,,53.0,,https://www.eyebuydirect.com/eyeglasses/frames/woodrow-golden-s-16989,3,,True,eyebuydirect|woodrow,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Yokote,,26.0,,https://www.eyebuydirect.com/eyeglasses/frames/yokote-matte-black-l-16829,2,,True,eyebuydirect|yokote,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Zippity,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/zippity-red-xs-31414,10,,True,eyebuydirect|zippity,1,,False,2026-09-11
+eyebuydirect,EyeBuyDirect,Zippy,,23.0,,https://www.eyebuydirect.com/eyeglasses/frames/zippy-matte-clear-green-xs-28105,3,,True,eyebuydirect|zippy,1,,False,2026-09-11
+eyebuydirect,Oakley,Oakley Holbrook Rx,,187.0,,https://www.eyebuydirect.com/eyeglasses/frames/oakley-holbrook-rx-satin-black-m-21168,1,,True,oakley|oakley holbrook rx,1,,False,2026-09-11
+eyebuydirect,Oakley,Oakley Plank 2.0,,187.0,,https://www.eyebuydirect.com/eyeglasses/frames/oakley-plank-2-0-satin-black-s-21179,8,,True,oakley|oakley plank 2.0,1,,False,2026-09-11
+eyebuydirect,Oakley,Oakley Rafter,,172.0,,https://www.eyebuydirect.com/eyeglasses/frames/oakley-rafter-satin-black-l-27213,6,,True,oakley|oakley rafter,1,,False,2026-09-11
+eyebuydirect,Oakley,Oakley Socket 5.5,,227.0,,https://www.eyebuydirect.com/eyeglasses/frames/oakley-socket-5-5-satin-black-blue-m-21193,9,,True,oakley|oakley socket 5.5,1,,False,2026-09-11
+eyebuydirect,Oakley Meta,Oakley Meta HSTN,,399.0,,https://www.eyebuydirect.com/ai-glasses/frames/oakley-meta-hstn-black-l-31628,10,,True,oakley meta|oakley meta hstn,1,,False,2026-09-11
+eyebuydirect,Ralph,Ralph RA7158U,,141.0,,https://www.eyebuydirect.com/eyeglasses/frames/ralph-ra7158u-shiny-dark-tortoise-m-28688,7,,True,ralph|ralph ra7158u,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB3447V,,210.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb3447v-arista-gold-l-32884,10,,True,ray-ban|ray-ban rb3447v,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB5154 Clubmaster,,222.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb5154-clubmaster-black-m-21217,6,,True,ray-ban|ray-ban rb5154 clubmaster,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB5279,,186.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb5279-black-m-24319,10,,True,ray-ban|ray-ban rb5279,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB6363,,210.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb6363-black-gold-l-24326,8,,True,ray-ban|ray-ban rb6363,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB6375,,189.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb6375-black-gold-m-21812,6,,True,ray-ban|ray-ban rb6375,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB7025,,210.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb7025-black-m-21261,5,,True,ray-ban|ray-ban rb7025,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB7047,,176.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb7047-tortoise-brown-m-21267,1,,True,ray-ban|ray-ban rb7047,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban RB7185,,162.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb7185-black-m-24304,9,,True,ray-ban|ray-ban rb7185,1,,False,2026-09-11
+eyebuydirect,Ray-Ban,Ray-Ban Wayfarer Ease Change,,210.0,,https://www.eyebuydirect.com/eyeglasses/frames/ray-ban-rb4340v-black-l-21215,7,,True,ray-ban|ray-ban wayfarer ease change,1,,False,2026-09-11
+eyebuydirect,Ray-Ban Meta,Ray-Ban Meta Blayzer Optics (Gen 2),,499.0,,https://www.eyebuydirect.com/ai-glasses/frames/ray-ban-meta-blayzer-optics-gen-2-matte-black-s-31616,5,,True,ray-ban meta|ray-ban meta blayzer optics (gen 2),1,,False,2026-09-11
+eyebuydirect,Ray-Ban Meta,Ray-Ban Meta Skyler (Gen 2),,459.0,,https://www.eyebuydirect.com/ai-glasses/frames/ray-ban-meta-skyler-gen-2-shiny-peach-l-31614,1,,True,ray-ban meta|ray-ban meta skyler (gen 2),1,,False,2026-09-11
+eyebuydirect,Ray-Ban Meta,Ray-Ban Meta Wayfarer (Gen 2),,379.0,,https://www.eyebuydirect.com/ai-glasses/frames/ray-ban-meta-wayfarer-gen-2-matte-black-m-30661,1,,True,ray-ban meta|ray-ban meta wayfarer (gen 2),1,,False,2026-09-11
+eyebuydirect,rflkt,Aura,,69.0,,https://www.eyebuydirect.com/eyeglasses/frames/aura-ivory-tortoise-m-22210,3,,True,rflkt|aura,1,,False,2026-09-11
+eyebuydirect,rflkt,Ona,,69.0,,https://www.eyebuydirect.com/eyeglasses/frames/ona-ivory-tortoise-s-20902,7,,True,rflkt|ona,1,,False,2026-09-11
+eyebuydirect,rflkt,Planete,,89.0,,https://www.eyebuydirect.com/eyeglasses/frames/planete-floral-l-19834,9,,True,rflkt|planete,1,,False,2026-09-11
+eyebuydirect,rflkt,Prism,,73.0,,https://www.eyebuydirect.com/eyeglasses/frames/prism-tortoise-m-18703,4,,True,rflkt|prism,1,,False,2026-09-11
+eyebuydirect,rflkt,Sequence,,93.0,,https://www.eyebuydirect.com/eyeglasses/frames/sequence-translucent-m-22209,6,,True,rflkt|sequence,1,,False,2026-09-11
+eyebuydirect,rflkt,Theory,,93.0,,https://www.eyebuydirect.com/eyeglasses/frames/theory-cognac-m-15873,2,,True,rflkt|theory,1,,False,2026-09-11
+eyebuydirect,titanium,Alum,,86.0,,https://www.eyebuydirect.com/eyeglasses/frames/alum-black-gold-l-22190,10,,True,titanium|alum,1,,False,2026-09-11
+eyebuydirect,titanium,Density,,83.0,,https://www.eyebuydirect.com/eyeglasses/frames/density-light-silver-gunmetal-xl-22196,3,,True,titanium|density,1,,False,2026-09-11
+eyebuydirect,titanium,Ebb,,93.0,,https://www.eyebuydirect.com/eyeglasses/frames/ebb-silver-m-18113,9,,True,titanium|ebb,1,,False,2026-09-11
+eyebuydirect,titanium,Future,,93.0,,https://www.eyebuydirect.com/eyeglasses/frames/future-golden-m-20068,8,,True,titanium|future,1,,False,2026-09-11
+eyebuydirect,titanium,Imani,,93.0,,https://www.eyebuydirect.com/eyeglasses/frames/imani-silver-l-21396,7,,True,titanium|imani,1,,False,2026-09-11
+eyebuydirect,titanium,Nate,,93.0,,https://www.eyebuydirect.com/eyeglasses/frames/nate-gold-brown-m-23793,5,,True,titanium|nate,1,,False,2026-09-11
+framesdirect,Burberry,BE1268,249.0,174.3,30%,https://www.framesdirect.com/burberry-be1268-eyeglasses?color=10003834,1,30.0,True,burberry|be1268,1,74.7,True,2026-09-12
+framesdirect,Burberry,BE1392,421.0,294.7,30%,https://www.framesdirect.com/burberry-be1392-eyeglasses?color=1,2,30.0,True,burberry|be1392,1,126.3,True,2026-09-12
+framesdirect,Burberry,BE1398,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1398-eyeglasses?color=10056132,10,30.0,True,burberry|be1398,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE1399,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1399-eyeglasses?color=10056132,10,30.0,True,burberry|be1399,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE1401,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1401-eyeglasses?color=10060875,9,30.0,True,burberry|be1401,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE1402D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1402d-eyeglasses?color=10060878,9,30.0,True,burberry|be1402d,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE1403D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1403d-eyeglasses?color=10060882,9,30.0,True,burberry|be1403d,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE1405,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1405-eyeglasses?color=10063120,3,30.0,True,burberry|be1405,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE2073,249.0,174.3,30%,https://www.framesdirect.com/burberry-be2073-eyeglasses?color=469971,1,30.0,True,burberry|be2073,1,74.7,True,2026-09-12
+framesdirect,Burberry,BE2108,265.0,185.5,30%,https://www.framesdirect.com/burberry-be2108-eyeglasses?color=1,10,30.0,True,burberry|be2108,1,79.5,True,2026-09-12
+framesdirect,Burberry,BE2436D,327.0,228.9,30%,https://www.framesdirect.com/burberry-be2436d-eyeglasses?color=10056153,9,30.0,True,burberry|be2436d,1,98.1,True,2026-09-12
+framesdirect,Burberry,BE2438F,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2438f-eyeglasses?color=10056144,9,30.0,True,burberry|be2438f,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2439F,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2439f-eyeglasses?color=10056144,9,30.0,True,burberry|be2439f,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2440F,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2440f-eyeglasses?color=10056143,9,30.0,True,burberry|be2440f,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2443F,358.0,250.6,30%,https://www.framesdirect.com/burberry-be2443f-eyeglasses?color=10056160,9,30.0,True,burberry|be2443f,1,107.4,True,2026-09-12
+framesdirect,Burberry,BE2445F,390.0,273.0,30%,https://www.framesdirect.com/burberry-be2445f-eyeglasses?color=10056170,9,30.0,True,burberry|be2445f,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE2447D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2447d-eyeglasses?color=10056152,9,30.0,True,burberry|be2447d,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2448D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2448d-eyeglasses?color=10056144,9,30.0,True,burberry|be2448d,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2449D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be2449d-eyeglasses?color=10056169,9,30.0,True,burberry|be2449d,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE2450D,327.0,228.9,30%,https://www.framesdirect.com/burberry-be2450d-eyeglasses?color=10056167,9,30.0,True,burberry|be2450d,1,98.1,True,2026-09-12
+framesdirect,Burberry,BE2451U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2451u-eyeglasses?color=10060703,9,30.0,True,burberry|be2451u,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2452U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2452u-eyeglasses?color=10060703,9,30.0,True,burberry|be2452u,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2457U,421.0,294.7,30%,https://www.framesdirect.com/burberry-be2457u-eyeglasses?color=10056160,9,30.0,True,burberry|be2457u,1,126.3,True,2026-09-12
+framesdirect,Burberry,BE2458,358.0,250.6,30%,https://www.framesdirect.com/burberry-be2458-eyeglasses?color=10056160,9,30.0,True,burberry|be2458,1,107.4,True,2026-09-12
+framesdirect,Burberry,BE2459D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be2459d-eyeglasses?color=10056165,9,30.0,True,burberry|be2459d,1,117.0,True,2026-09-12
+framesdirect,Burberry,BE2460D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2460d-eyeglasses?color=10060703,9,30.0,True,burberry|be2460d,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2461D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2461d-eyeglasses?color=10060703,9,30.0,True,burberry|be2461d,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2463U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2463u-eyeglasses?color=10063137,3,30.0,True,burberry|be2463u,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2464U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2464u-eyeglasses?color=10063141,3,30.0,True,burberry|be2464u,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2465U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2465u-eyeglasses?color=10063145,3,30.0,True,burberry|be2465u,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2466,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2466-eyeglasses?color=10063149,3,30.0,True,burberry|be2466,1,106.8,True,2026-09-12
+framesdirect,Burberry,BE2466F,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2466f-eyeglasses?color=10063153,3,30.0,True,burberry|be2466f,1,106.8,True,2026-09-12
+framesdirect,Burberry,BE2467,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2467-eyeglasses?color=10063156,3,30.0,True,burberry|be2467,1,106.8,True,2026-09-12
+framesdirect,Burberry,BE2467F,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2467f-eyeglasses?color=10063160,3,30.0,True,burberry|be2467f,1,106.8,True,2026-09-12
+framesdirect,Burberry,BE2470U,296.0,207.2,30%,https://www.framesdirect.com/burberry-be2470u-eyeglasses?color=10063164,3,30.0,True,burberry|be2470u,1,88.8,True,2026-09-12
+framesdirect,Burberry,BE2471U,296.0,207.2,30%,https://www.framesdirect.com/burberry-be2471u-eyeglasses?color=10063168,3,30.0,True,burberry|be2471u,1,88.8,True,2026-09-12
+framesdirect,Burberry,BE2473D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2473d-eyeglasses?color=10063172,3,30.0,True,burberry|be2473d,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2474D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2474d-eyeglasses?color=10063176,3,30.0,True,burberry|be2474d,1,93.3,True,2026-09-12
+framesdirect,Burberry,BE2475D,296.0,207.2,30%,https://www.framesdirect.com/burberry-be2475d-eyeglasses?color=10063180,3,30.0,True,burberry|be2475d,1,88.8,True,2026-09-12
+framesdirect,Costa,Bimini Road 640,,211.0,,https://www.framesdirect.com/costa-bimini-road-640-eyeglasses?color=10062998,4,,True,costa|bimini road 640,1,,False,2026-09-12
+framesdirect,Costa,Ocean Ridge 400,,211.0,,https://www.framesdirect.com/costa-ocean-ridge-400-eyeglasses?color=1,1,,True,costa|ocean ridge 400,1,,False,2026-09-12
+framesdirect,Costa,Ocean Ridge 430,,211.0,,https://www.framesdirect.com/costa-ocean-ridge-430-eyeglasses?color=10063011,4,,True,costa|ocean ridge 430,1,,False,2026-09-12
+framesdirect,Costa,Ocean Ridge 710,,197.0,,https://www.framesdirect.com/costa-ocean-ridge-710-eyeglasses?color=1,2,,True,costa|ocean ridge 710,1,,False,2026-09-12
+framesdirect,Costa,Ocean Ridge 720,,197.0,,https://www.framesdirect.com/costa-ocean-ridge-720-eyeglasses?color=2,2,,True,costa|ocean ridge 720,1,,False,2026-09-12
+framesdirect,Costa,Ocean Ridge 730,,197.0,,https://www.framesdirect.com/costa-ocean-ridge-730-eyeglasses?color=10061644,9,,True,costa|ocean ridge 730,1,,False,2026-09-12
+framesdirect,Costa,Ocean Ridge 820,,141.0,,https://www.framesdirect.com/costa-ocean-ridge-820-eyeglasses?color=2,1,,True,costa|ocean ridge 820,1,,False,2026-09-12
+framesdirect,Costa,Ocean Ridge 840,,141.0,,https://www.framesdirect.com/costa-ocean-ridge-840-eyeglasses?color=10063008,4,,True,costa|ocean ridge 840,1,,False,2026-09-12
+framesdirect,Diesel,DL5002,170.0,119.0,30%,https://www.framesdirect.com/diesel-dl5002-eyeglasses?color=1,2,30.0,True,diesel|dl5002,1,51.0,True,2026-09-12
+framesdirect,Dolce & Gabbana,DG1361,480.0,336.0,30%,https://www.framesdirect.com/dolce-gabbana-dg1361-eyeglasses?color=1,2,30.0,True,dolce & gabbana|dg1361,1,144.0,True,2026-09-12
+framesdirect,Dolce & Gabbana,DG3363,288.0,144.0,50%,https://www.framesdirect.com/dolce-gabbana-dg3363-eyeglasses?color=6,1,50.0,True,dolce & gabbana|dg3363,1,144.0,True,2026-09-12
+framesdirect,Giorgio Armani,AR7074,327.0,228.9,30%,https://www.framesdirect.com/giorgio-armani-ar7074-eyeglasses?color=10052175,1,30.0,True,giorgio armani|ar7074,1,98.1,True,2026-09-12
+framesdirect,Gucci,GG1500OK,530.0,450.5,15%,https://www.framesdirect.com/gucci-gg1500ok-eyeglasses?color=10061655,9,15.0,True,gucci|gg1500ok,1,79.5,True,2026-09-12
+framesdirect,Gucci,GG1745OA,560.0,476.0,15%,https://www.framesdirect.com/gucci-gg1745oa-eyeglasses?color=10061653,9,15.0,True,gucci|gg1745oa,1,84.0,True,2026-09-12
+framesdirect,Gucci,GG1746OA,590.0,501.5,15%,https://www.framesdirect.com/gucci-gg1746oa-eyeglasses?color=10061652,9,15.0,True,gucci|gg1746oa,1,88.5,True,2026-09-12
+framesdirect,Gucci,GG1938O,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg1938o-eyeglasses?color=10061657,8,15.0,True,gucci|gg1938o,1,81.75,True,2026-09-12
+framesdirect,Gucci,GG1945O,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg1945o-eyeglasses?color=10061659,8,15.0,True,gucci|gg1945o,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG1947O,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg1947o-eyeglasses?color=10061661,8,15.0,True,gucci|gg1947o,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG1949OK,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg1949ok-eyeglasses?color=10061662,8,15.0,True,gucci|gg1949ok,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG1961O,575.0,488.75,15%,https://www.framesdirect.com/gucci-gg1961o-eyeglasses?color=10061664,8,15.0,True,gucci|gg1961o,1,86.25,True,2026-09-12
+framesdirect,Gucci,GG1964O,650.0,552.5,15%,https://www.framesdirect.com/gucci-gg1964o-eyeglasses?color=10061665,8,15.0,True,gucci|gg1964o,1,97.5,True,2026-09-12
+framesdirect,Gucci,GG1972OA,665.0,565.25,15%,https://www.framesdirect.com/gucci-gg1972oa-eyeglasses?color=10061666,8,15.0,True,gucci|gg1972oa,1,99.75,True,2026-09-12
+framesdirect,Gucci,GG1988OK,330.0,280.5,15%,https://www.framesdirect.com/gucci-gg1988ok-eyeglasses?color=10061668,8,15.0,True,gucci|gg1988ok,1,49.5,True,2026-09-12
+framesdirect,Gucci,GG1989O,370.0,314.5,15%,https://www.framesdirect.com/gucci-gg1989o-eyeglasses?color=10061671,8,15.0,True,gucci|gg1989o,1,55.5,True,2026-09-12
+framesdirect,Gucci,GG1993OK,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg1993ok-eyeglasses?color=10061672,8,15.0,True,gucci|gg1993ok,1,81.75,True,2026-09-12
+framesdirect,Gucci,GG1994O,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg1994o-eyeglasses?color=10061674,8,15.0,True,gucci|gg1994o,1,62.25,True,2026-09-12
+framesdirect,Gucci,GG1996O,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg1996o-eyeglasses?color=10061677,8,15.0,True,gucci|gg1996o,1,62.25,True,2026-09-12
+framesdirect,Gucci,GG1997O,415.0,290.5,30%,https://www.framesdirect.com/gucci-gg1997o-eyeglasses?color=10061682,8,30.0,True,gucci|gg1997o,1,124.5,True,2026-09-12
+framesdirect,Gucci,GG2000OJ,830.0,705.5,15%,https://www.framesdirect.com/gucci-gg2000oj-eyeglasses?color=10061683,8,15.0,True,gucci|gg2000oj,1,124.5,True,2026-09-12
+framesdirect,Gucci,GG2002OJ,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2002oj-eyeglasses?color=10061685,8,15.0,True,gucci|gg2002oj,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG2003OJ,445.0,378.25,15%,https://www.framesdirect.com/gucci-gg2003oj-eyeglasses?color=10061687,8,15.0,True,gucci|gg2003oj,1,66.75,True,2026-09-12
+framesdirect,Gucci,GG2004OA,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2004oa-eyeglasses?color=10061689,8,15.0,True,gucci|gg2004oa,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG2005OA,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg2005oa-eyeglasses?color=10061691,8,15.0,True,gucci|gg2005oa,1,62.25,True,2026-09-12
+framesdirect,Gucci,GG2006OA,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg2006oa-eyeglasses?color=10061693,8,15.0,True,gucci|gg2006oa,1,81.75,True,2026-09-12
+framesdirect,Gucci,GG2035Oa,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2035oa-eyeglasses?color=10061696,8,15.0,True,gucci|gg2035oa,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG2066O,490.0,416.5,15%,https://www.framesdirect.com/gucci-gg2066o-eyeglasses?color=10061698,8,15.0,True,gucci|gg2066o,1,73.5,True,2026-09-12
+framesdirect,Gucci,GG2070O,490.0,416.5,15%,https://www.framesdirect.com/gucci-gg2070o-eyeglasses?color=10061700,8,15.0,True,gucci|gg2070o,1,73.5,True,2026-09-12
+framesdirect,Gucci,GG2083O,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg2083o-eyeglasses?color=10061703,8,15.0,True,gucci|gg2083o,1,62.25,True,2026-09-12
+framesdirect,Gucci,GG2091O,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg2091o-eyeglasses?color=10061704,8,15.0,True,gucci|gg2091o,1,81.75,True,2026-09-12
+framesdirect,Gucci,GG2131O,490.0,416.5,15%,https://www.framesdirect.com/gucci-gg2131o-eyeglasses?color=10061708,2,15.0,True,gucci|gg2131o,1,73.5,True,2026-09-12
+framesdirect,Gucci,GG2135O,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2135o-eyeglasses?color=10061709,7,15.0,True,gucci|gg2135o,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG2141Ok,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2141ok-eyeglasses?color=10061712,7,15.0,True,gucci|gg2141ok,1,77.25,True,2026-09-12
+framesdirect,Gucci,GG2142Oj,460.0,391.0,15%,https://www.framesdirect.com/gucci-gg2142oj-eyeglasses?color=10061713,7,15.0,True,gucci|gg2142oj,1,69.0,True,2026-09-12
+framesdirect,Gucci,GG2144Oj,400.0,340.0,15%,https://www.framesdirect.com/gucci-gg2144oj-eyeglasses?color=10061716,1,15.0,True,gucci|gg2144oj,1,60.0,True,2026-09-12
+framesdirect,Gucci,GG2148Oa,575.0,488.75,15%,https://www.framesdirect.com/gucci-gg2148oa-eyeglasses?color=10061717,7,15.0,True,gucci|gg2148oa,1,86.25,True,2026-09-12
+framesdirect,Kate Spade,KS Marnie 2/G,240.0,168.0,30%,https://www.framesdirect.com/kate-spade-ks-marnie-2-g-eyeglasses?color=2,1,30.0,True,kate spade|ks marnie 2/g,1,72.0,True,2026-09-12
+framesdirect,Kate Spade,Lucyann 2,230.0,161.0,30%,https://www.framesdirect.com/kate-spade-lucyann-2-eyeglasses?color=5021770,2,30.0,True,kate spade|lucyann 2,1,69.0,True,2026-09-12
+framesdirect,Oakley,Airdrop,,227.0,,https://www.framesdirect.com/oakley-airdrop-eyeglasses?color=1,1,,True,oakley|airdrop,1,,False,2026-09-12
+framesdirect,Oakley,BMNG ARC,,242.0,,https://www.framesdirect.com/oakley-bmng-arc-eyeglasses?color=10063024,4,,True,oakley|bmng arc,1,,False,2026-09-12
+framesdirect,Oakley,Bottle Rocket 4.0,,276.0,,https://www.framesdirect.com/oakley-bottle-rocket-4.0-eyeglasses?color=333571,10,,True,oakley|bottle rocket 4.0,1,,False,2026-09-12
+framesdirect,Oakley,Clubface,,276.0,,https://www.framesdirect.com/oakley-clubface-eyeglasses?color=473191,10,,True,oakley|clubface,1,,False,2026-09-12
+framesdirect,Oakley,Currency,,276.0,,https://www.framesdirect.com/oakley-currency-eyeglasses?color=500277,10,,True,oakley|currency,1,,False,2026-09-12
+framesdirect,Oakley,Enigma Echo,,255.0,,https://www.framesdirect.com/oakley-enigma-echo-eyeglasses?color=10063035,4,,True,oakley|enigma echo,1,,False,2026-09-12
+framesdirect,Oakley,Foil RQ 0.5,,172.0,,https://www.framesdirect.com/oakley-foil-rq-0.5-eyeglasses?color=10062681,6,,True,oakley|foil rq 0.5,1,,False,2026-09-12
+framesdirect,Oakley,Foil SQ,,172.0,,https://www.framesdirect.com/oakley-foil-sq-eyeglasses?color=10062677,6,,True,oakley|foil sq,1,,False,2026-09-12
+framesdirect,Oakley,HSTN SQ,,227.0,,https://www.framesdirect.com/oakley-hstn-sq-eyeglasses?color=10057640,2,,True,oakley|hstn sq,1,,False,2026-09-12
+framesdirect,Oakley,Hex Jector,,187.0,,https://www.framesdirect.com/oakley-hex-jector-eyeglasses?color=10062693,6,,True,oakley|hex jector,1,,False,2026-09-12
+framesdirect,Oakley,Hex Jector (Low Bridge Fit),,187.0,,https://www.framesdirect.com/oakley-hex-jector-low-bridge-fit-eyeglasses?color=10062706,6,,True,oakley|hex jector (low bridge fit),1,,False,2026-09-12
+framesdirect,Oakley,Hex Jector (TruBridge),,187.0,,https://www.framesdirect.com/oakley-hex-jector-eyeglasses?color=4,2,,True,oakley|hex jector (trubridge),1,,False,2026-09-12
+framesdirect,Oakley,Hex Jector - Alternate Fit (TruBridge),,187.0,,https://www.framesdirect.com/oakley-hex-jector-alternate-fit-eyeglasses?color=2,2,,True,oakley|hex jector - alternate fit (trubridge),1,,False,2026-09-12
+framesdirect,Oakley,Holbrook,,187.0,,https://www.framesdirect.com/oakley-holbrook-eyeglasses?color=10063018,4,,True,oakley|holbrook,1,,False,2026-09-12
+framesdirect,Oakley,Holbrook RX,,187.0,,https://www.framesdirect.com/oakley-holbrook-rx-eyeglasses?color=1,1,,True,oakley|holbrook rx,1,,False,2026-09-12
+framesdirect,Oakley,Leadline,,227.0,,https://www.framesdirect.com/oakley-leadline-eyeglasses?color=10062707,6,,True,oakley|leadline,1,,False,2026-09-12
+framesdirect,Oakley,Liteboard,,172.0,,https://www.framesdirect.com/oakley-liteboard-eyeglasses?color=10057590,2,,True,oakley|liteboard,1,,False,2026-09-12
+framesdirect,Oakley,Metal Plate,346.0,173.0,50%,https://www.framesdirect.com/oakley-metal-plate-eyeglasses?color=10059667,10,50.0,True,oakley|metal plate,1,173.0,True,2026-09-12
+framesdirect,Oakley,Paracord,,242.0,,https://www.framesdirect.com/oakley-paracord-eyeglasses?color=10062725,6,,True,oakley|paracord,1,,False,2026-09-12
+framesdirect,Oakley,Paracord X,,242.0,,https://www.framesdirect.com/oakley-paracord-x-eyeglasses?color=10063030,4,,True,oakley|paracord x,1,,False,2026-09-12
+framesdirect,Oakley,Persuasive,183.0,91.5,50%,https://www.framesdirect.com/oakley-persuasive-eyeglasses?color=1,10,50.0,True,oakley|persuasive,1,91.5,True,2026-09-12
+framesdirect,Oakley,Pitchman R (Low Bridge Fit),,255.0,,https://www.framesdirect.com/oakley-pitchman-r-low-bridge-fit-eyeglasses?color=10063016,4,,True,oakley|pitchman r (low bridge fit),1,,False,2026-09-12
+framesdirect,Oakley,Plank 2.0,,187.0,,https://www.framesdirect.com/oakley-plank-2.0-eyeglasses?color=6,1,,True,oakley|plank 2.0,1,,False,2026-09-12
+framesdirect,Oakley,Rhinochaser,,276.0,,https://www.framesdirect.com/oakley-rhinochaser-eyeglasses?color=496157,10,,True,oakley|rhinochaser,1,,False,2026-09-12
+framesdirect,Oakley,Shackle,,242.0,,https://www.framesdirect.com/oakley-shackle-eyeglasses?color=10062729,6,,True,oakley|shackle,1,,False,2026-09-12
+framesdirect,Oakley,Socket 5.0,,227.0,,https://www.framesdirect.com/oakley-socket-5.0-eyeglasses?color=10062686,6,,True,oakley|socket 5.0,1,,False,2026-09-12
+framesdirect,Oakley,Socket 5.5,,227.0,,https://www.framesdirect.com/oakley-socket-5.5-eyeglasses?color=13,1,,True,oakley|socket 5.5,1,,False,2026-09-12
+framesdirect,Oakley,Tailback 2.0,,500.0,,https://www.framesdirect.com/oakley-tailback-2.0-eyeglasses?color=10062691,6,,True,oakley|tailback 2.0,1,,False,2026-09-12
+framesdirect,Oakley,Tie Bar 0.5,,387.0,,https://www.framesdirect.com/oakley-tie-bar-0.5-eyeglasses?color=3,1,,True,oakley|tie bar 0.5,1,,False,2026-09-12
+framesdirect,Oakley,Tincup,,346.0,,https://www.framesdirect.com/oakley-tincup-eyeglasses?color=2,2,,True,oakley|tincup,1,,False,2026-09-12
+framesdirect,Oakley,Tumbleweed,,255.0,,https://www.framesdirect.com/oakley-tumbleweed-eyeglasses?color=500140,10,,True,oakley|tumbleweed,1,,False,2026-09-12
+framesdirect,Oakley,Versafuse SQ,,276.0,,https://www.framesdirect.com/oakley-versafuse-sq-eyeglasses?color=10062739,6,,True,oakley|versafuse sq,1,,False,2026-09-12
+framesdirect,Oakley,Versafuse SS,,276.0,,https://www.framesdirect.com/oakley-versafuse-ss-eyeglasses?color=10062737,6,,True,oakley|versafuse ss,1,,False,2026-09-12
+framesdirect,Oakley,Wire Tap 2.0 RX,,387.0,,https://www.framesdirect.com/oakley-wire-tap-2.0-rx-eyeglasses?color=3,1,,True,oakley|wire tap 2.0 rx,1,,False,2026-09-12
+framesdirect,Polo,PH2083,201.0,140.7,30%,https://www.framesdirect.com/polo-ph2083-eyeglasses?color=499297,1,30.0,True,polo|ph2083,1,60.3,True,2026-09-12
+framesdirect,RALPH by Ralph Lauren,RA7158U,141.0,98.7,30%,https://www.framesdirect.com/ralph-by-ralph-lauren-ra7158u-eyeglasses?color=1,1,30.0,True,ralph by ralph lauren|ra7158u,1,42.3,True,2026-09-12
+framesdirect,Ray-Ban,RB2221V Optics,,210.0,,https://www.framesdirect.com/ray-ban-rb2221v-optics-eyeglasses?color=10062743,6,,True,ray-ban|rb2221v optics,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB2221VF,,210.0,,https://www.framesdirect.com/ray-ban-rb2221vf-eyeglasses?color=1,4,,True,ray-ban|rb2221vf,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB3447V Round Metal,,210.0,,https://www.framesdirect.com/ray-ban-rb3447v-round-metal-eyeglasses?color=10020477,1,,True,ray-ban|rb3447v round metal,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB3681V,,162.0,,https://www.framesdirect.com/ray-ban-rb3681v-eyeglasses?color=3,2,,True,ray-ban|rb3681v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB3767V,,195.0,,https://www.framesdirect.com/ray-ban-rb3767v-eyeglasses?color=10062748,6,,True,ray-ban|rb3767v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB3768V,,195.0,,https://www.framesdirect.com/ray-ban-rb3768v-eyeglasses?color=1,6,,True,ray-ban|rb3768v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB3792V,,195.0,,https://www.framesdirect.com/ray-ban-rb3792v-eyeglasses?color=10063052,4,,True,ray-ban|rb3792v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB3793V,,222.0,,https://www.framesdirect.com/ray-ban-rb3793v-eyeglasses?color=10063054,4,,True,ray-ban|rb3793v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB4340V,,210.0,,https://www.framesdirect.com/ray-ban-rb4340v-eyeglasses?color=1,5,,True,ray-ban|rb4340v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB4340V Wayfarer Ease,,210.0,,https://www.framesdirect.com/ray-ban-rb4340v-eyeglasses?color=10021732,1,,True,ray-ban|rb4340v wayfarer ease,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB4379VD,,220.0,,https://www.framesdirect.com/ray-ban-rb4379vd-eyeglasses?color=10062906,5,,True,ray-ban|rb4379vd,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB4451V,,237.0,,https://www.framesdirect.com/ray-ban-rb4451v-eyeglasses?color=10062911,5,,True,ray-ban|rb4451v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5154 Clubmaster,,222.0,,https://www.framesdirect.com/ray-ban-rb5154-clubmaster-eyeglasses?color=392445,1,,True,ray-ban|rb5154 clubmaster,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5169,,186.0,,https://www.framesdirect.com/ray-ban-rb5169-eyeglasses?color=422162,10,,True,ray-ban|rb5169,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5184F,,212.0,,https://www.framesdirect.com/ray-ban-rb5184f-eyeglasses?color=10062764,5,,True,ray-ban|rb5184f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5206,,210.0,,https://www.framesdirect.com/ray-ban-rb5206-eyeglasses?color=10002080,10,,True,ray-ban|rb5206,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5228,,222.0,,https://www.framesdirect.com/ray-ban-rb5228-eyeglasses?color=471952,10,,True,ray-ban|rb5228,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5245,,210.0,,https://www.framesdirect.com/ray-ban-rx5245-eyeglasses?color=497723,10,,True,ray-ban|rb5245,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5268,,176.0,,https://www.framesdirect.com/ray-ban-rb5268-eyeglasses?color=3,10,,True,ray-ban|rb5268,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5277,,186.0,,https://www.framesdirect.com/ray-ban-rb5277-eyeglasses?color=5,10,,True,ray-ban|rb5277,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5279,,186.0,,https://www.framesdirect.com/ray-ban-rb5279-eyeglasses?color=3,10,,True,ray-ban|rb5279,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5279F,,222.0,,https://www.framesdirect.com/ray-ban-rb5279f-eyeglasses?color=10062770,5,,True,ray-ban|rb5279f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5285,,222.0,,https://www.framesdirect.com/ray-ban-rb5285-eyeglasses?color=10024344,10,,True,ray-ban|rb5285,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5286,,222.0,,https://www.framesdirect.com/ray-ban-rb5286-eyeglasses?color=4,10,,True,ray-ban|rb5286,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5345D,,261.0,,https://www.framesdirect.com/ray-ban-rb5345d-eyeglasses?color=10062771,5,,True,ray-ban|rb5345d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5397 - Elliot Optics,,210.0,,https://www.framesdirect.com/ray-ban-rb5397-elliot-optics-eyeglasses?color=1,1,,True,ray-ban|rb5397 - elliot optics,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5406,,189.0,,https://www.framesdirect.com/ray-ban-rb5406-eyeglasses?color=4,2,,True,ray-ban|rb5406,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5440F,,189.0,,https://www.framesdirect.com/ray-ban-rb5440f-eyeglasses?color=1,5,,True,ray-ban|rb5440f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5455,,186.0,,https://www.framesdirect.com/ray-ban-rb5455-eyeglasses?color=10063069,4,,True,ray-ban|rb5455,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5455F,,186.0,,https://www.framesdirect.com/ray-ban-rb5455f-eyeglasses?color=1,4,,True,ray-ban|rb5455f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5456,,186.0,,https://www.framesdirect.com/ray-ban-rb5456-eyeglasses?color=10063079,4,,True,ray-ban|rb5456,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5457D,,210.0,,https://www.framesdirect.com/ray-ban-rb5457d-eyeglasses?color=10063082,4,,True,ray-ban|rb5457d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5458D,,210.0,,https://www.framesdirect.com/ray-ban-rb5458d-eyeglasses?color=1,4,,True,ray-ban|rb5458d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5460,,195.0,,https://www.framesdirect.com/ray-ban-rb5460-eyeglasses?color=10063086,4,,True,ray-ban|rb5460,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5461D,,210.0,,https://www.framesdirect.com/ray-ban-rb5461d-eyeglasses?color=10063092,3,,True,ray-ban|rb5461d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB5510,,210.0,,https://www.framesdirect.com/ray-ban-rb5510-eyeglasses?color=10063094,3,,True,ray-ban|rb5510,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6335,,210.0,,https://www.framesdirect.com/ray-ban-rb6335-eyeglasses?color=10009371,1,,True,ray-ban|rb6335,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6418D,,236.0,,https://www.framesdirect.com/ray-ban-rb6418d-eyeglasses?color=10062939,5,,True,ray-ban|rb6418d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6421,,210.0,,https://www.framesdirect.com/ray-ban-rb6421-eyeglasses?color=10026944,2,,True,ray-ban|rb6421,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6494,,237.0,,https://www.framesdirect.com/ray-ban-rb6494-eyeglasses?color=10062806,5,,True,ray-ban|rb6494,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6523D,,220.0,,https://www.framesdirect.com/ray-ban-rb6523d-eyeglasses?color=10062943,5,,True,ray-ban|rb6523d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6524D,,220.0,,https://www.framesdirect.com/ray-ban-rb6524d-eyeglasses?color=10062944,5,,True,ray-ban|rb6524d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6532,,249.0,,https://www.framesdirect.com/ray-ban-rb6532-eyeglasses?color=1,5,,True,ray-ban|rb6532,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6533,,189.0,,https://www.framesdirect.com/ray-ban-rb6533-eyeglasses?color=10062953,5,,True,ray-ban|rb6533,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6534,,189.0,,https://www.framesdirect.com/ray-ban-rb6534-eyeglasses?color=10062956,5,,True,ray-ban|rb6534,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6538D,,189.0,,https://www.framesdirect.com/ray-ban-rb6538d-eyeglasses?color=10062962,5,,True,ray-ban|rb6538d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB6558,,186.0,,https://www.framesdirect.com/ray-ban-rb6558-eyeglasses?color=10063096,3,,True,ray-ban|rb6558,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7017,,222.0,,https://www.framesdirect.com/ray-ban-rb7017-eyeglasses?color=1,10,,True,ray-ban|rb7017,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7047,,176.0,,https://www.framesdirect.com/ray-ban-rb7047-eyeglasses?color=10007662,1,,True,ray-ban|rb7047,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7185,,162.0,,https://www.framesdirect.com/ray-ban-rb7185-eyeglasses?color=10047186,2,,True,ray-ban|rb7185,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7190,,162.0,,https://www.framesdirect.com/ray-ban-rb7190-eyeglasses?color=10051085,2,,True,ray-ban|rb7190,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7216,,222.0,,https://www.framesdirect.com/ray-ban-rb7216-eyeglasses?color=10062828,5,,True,ray-ban|rb7216,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7217,,189.0,,https://www.framesdirect.com/ray-ban-rb7217-eyeglasses?color=10062835,5,,True,ray-ban|rb7217,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7241D,,220.0,,https://www.framesdirect.com/ray-ban-rb7241d-eyeglasses?color=10062967,5,,True,ray-ban|rb7241d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7247D,,236.0,,https://www.framesdirect.com/ray-ban-rb7247d-eyeglasses?color=10062838,5,,True,ray-ban|rb7247d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7248D,,220.0,,https://www.framesdirect.com/ray-ban-rb7248d-eyeglasses?color=10062840,5,,True,ray-ban|rb7248d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7256F,,210.0,,https://www.framesdirect.com/ray-ban-rb7256f-eyeglasses?color=10062971,5,,True,ray-ban|rb7256f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7257F,,176.0,,https://www.framesdirect.com/ray-ban-rb7257f-eyeglasses?color=10062974,5,,True,ray-ban|rb7257f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7258F,,176.0,,https://www.framesdirect.com/ray-ban-rb7258f-eyeglasses?color=10062978,5,,True,ray-ban|rb7258f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7260F,,210.0,,https://www.framesdirect.com/ray-ban-rb7260f-eyeglasses?color=1,5,,True,ray-ban|rb7260f,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7550,,263.0,,https://www.framesdirect.com/ray-ban-rb7550-eyeglasses?color=10062860,4,,True,ray-ban|rb7550,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7551,,263.0,,https://www.framesdirect.com/ray-ban-rb7551-eyeglasses?color=10062865,4,,True,ray-ban|rb7551,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7552,,276.0,,https://www.framesdirect.com/ray-ban-rb7552-eyeglasses?color=10062869,4,,True,ray-ban|rb7552,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7553,,276.0,,https://www.framesdirect.com/ray-ban-rb7553-eyeglasses?color=10062872,4,,True,ray-ban|rb7553,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB7683V,,344.0,,https://www.framesdirect.com/ray-ban-rb7683v-eyeglasses?color=1,4,,True,ray-ban|rb7683v,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB8776D,,277.0,,https://www.framesdirect.com/ray-ban-rb8776d-eyeglasses?color=10062882,4,,True,ray-ban|rb8776d,1,,False,2026-09-12
+framesdirect,Ray-Ban,RB8777D,,277.0,,https://www.framesdirect.com/ray-ban-rb8777d-eyeglasses?color=10062884,4,,True,ray-ban|rb8777d,1,,False,2026-09-12
+framesdirect,Scuderia Ferrari,FZ7009,215.0,150.5,30%,https://www.framesdirect.com/scuderia-ferrari-fz7009-eyeglasses?color=1,2,30.0,True,scuderia ferrari|fz7009,1,64.5,True,2026-09-12
+framesdirect,Tiffany & Co.,TF2271,453.0,317.1,30%,https://www.framesdirect.com/tiffany-co.-tf2271-eyeglasses?color=2,2,30.0,True,tiffany & co.|tf2271,1,135.9,True,2026-09-12
+framesdirect,Versace,VE1066,270.0,189.0,30%,https://www.framesdirect.com/versace-ve1066-eyeglasses?color=497351,10,30.0,True,versace|ve1066,1,81.0,True,2026-09-12
+framesdirect,Versace,VE1175B,316.0,221.2,30%,https://www.framesdirect.com/versace-ve1175b-eyeglasses?color=471502,10,30.0,True,versace|ve1175b,1,94.8,True,2026-09-12
+framesdirect,Versace,VE1184,270.0,189.0,30%,https://www.framesdirect.com/versace-ve1184-eyeglasses?color=497389,10,30.0,True,versace|ve1184,1,81.0,True,2026-09-12
+framesdirect,Versace,VE1274,298.0,208.6,30%,https://www.framesdirect.com/versace-ve1274-eyeglasses?color=10051376,2,30.0,True,versace|ve1274,1,89.4,True,2026-09-12
+framesdirect,Versace,VE1285,300.0,210.0,30%,https://www.framesdirect.com/versace-ve1285-eyeglasses?color=3,1,30.0,True,versace|ve1285,1,90.0,True,2026-09-12
+framesdirect,Versace,VE1308,376.0,263.2,30%,https://www.framesdirect.com/versace-ve1308-eyeglasses?color=10061727,7,30.0,True,versace|ve1308,1,112.8,True,2026-09-12
+framesdirect,Versace,VE1309,480.0,336.0,30%,https://www.framesdirect.com/versace-ve1309-eyeglasses?color=2,7,30.0,True,versace|ve1309,1,144.0,True,2026-09-12
+framesdirect,Versace,VE1310,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1310-eyeglasses?color=10061733,7,30.0,True,versace|ve1310,1,121.8,True,2026-09-12
+framesdirect,Versace,VE1311,286.0,200.2,30%,https://www.framesdirect.com/versace-ve1311-eyeglasses?color=10061738,7,30.0,True,versace|ve1311,1,85.8,True,2026-09-12
+framesdirect,Versace,VE1312,286.0,200.2,30%,https://www.framesdirect.com/versace-ve1312-eyeglasses?color=10061739,7,30.0,True,versace|ve1312,1,85.8,True,2026-09-12
+framesdirect,Versace,VE1313D,286.0,200.2,30%,https://www.framesdirect.com/versace-ve1313d-eyeglasses?color=10061742,7,30.0,True,versace|ve1313d,1,85.8,True,2026-09-12
+framesdirect,Versace,VE1314D,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1314d-eyeglasses?color=10061748,7,30.0,True,versace|ve1314d,1,121.8,True,2026-09-12
+framesdirect,Versace,VE1315,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1315-eyeglasses?color=10061749,7,30.0,True,versace|ve1315,1,121.8,True,2026-09-12
+framesdirect,Versace,VE1317,450.0,315.0,30%,https://www.framesdirect.com/versace-ve1317-eyeglasses?color=2,7,30.0,True,versace|ve1317,1,135.0,True,2026-09-12
+framesdirect,Versace,VE1318,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1318-eyeglasses?color=10061756,7,30.0,True,versace|ve1318,1,121.8,True,2026-09-12
+framesdirect,Versace,VE1320,480.0,336.0,30%,https://www.framesdirect.com/versace-ve1320-eyeglasses?color=10063403,3,30.0,True,versace|ve1320,1,144.0,True,2026-09-12
+framesdirect,Versace,VE1322,480.0,336.0,30%,https://www.framesdirect.com/versace-ve1322-eyeglasses?color=10063404,3,30.0,True,versace|ve1322,1,144.0,True,2026-09-12
+framesdirect,Versace,VE1323,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1323-eyeglasses?color=10063407,3,30.0,True,versace|ve1323,1,121.8,True,2026-09-12
+framesdirect,Versace,VE1324D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve1324d-eyeglasses?color=10063410,3,30.0,True,versace|ve1324d,1,94.8,True,2026-09-12
+framesdirect,Versace,VE1325D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve1325d-eyeglasses?color=10063413,3,30.0,True,versace|ve1325d,1,94.8,True,2026-09-12
+framesdirect,Versace,VE1326,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1326-eyeglasses?color=10063416,3,30.0,True,versace|ve1326,1,121.8,True,2026-09-12
+framesdirect,Versace,VE3375F,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3375f-eyeglasses?color=10061526,7,30.0,True,versace|ve3375f,1,85.8,True,2026-09-12
+framesdirect,Versace,VE3379D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3379d-eyeglasses?color=1,7,30.0,True,versace|ve3379d,1,94.8,True,2026-09-12
+framesdirect,Versace,VE3380,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3380-eyeglasses?color=3,7,30.0,True,versace|ve3380,1,103.8,True,2026-09-12
+framesdirect,Versace,VE3380F,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3380f-eyeglasses?color=3,7,30.0,True,versace|ve3380f,1,103.8,True,2026-09-12
+framesdirect,Versace,VE3381U,300.0,210.0,30%,https://www.framesdirect.com/versace-ve3381u-eyeglasses?color=2,7,30.0,True,versace|ve3381u,1,90.0,True,2026-09-12
+framesdirect,Versace,VE3382,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3382-eyeglasses?color=3,7,30.0,True,versace|ve3382,1,103.8,True,2026-09-12
+framesdirect,Versace,VE3382F,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3382f-eyeglasses?color=3,7,30.0,True,versace|ve3382f,1,103.8,True,2026-09-12
+framesdirect,Versace,VE3383,376.0,263.2,30%,https://www.framesdirect.com/versace-ve3383-eyeglasses?color=10061557,7,30.0,True,versace|ve3383,1,112.8,True,2026-09-12
+framesdirect,Versace,VE3383F,376.0,263.2,30%,https://www.framesdirect.com/versace-ve3383f-eyeglasses?color=2,7,30.0,True,versace|ve3383f,1,112.8,True,2026-09-12
+framesdirect,Versace,VE3384,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3384-eyeglasses?color=2,7,30.0,True,versace|ve3384,1,103.8,True,2026-09-12
+framesdirect,Versace,VE3384F,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3384f-eyeglasses?color=3,6,30.0,True,versace|ve3384f,1,103.8,True,2026-09-12
+framesdirect,Versace,VE3385U,300.0,210.0,30%,https://www.framesdirect.com/versace-ve3385u-eyeglasses?color=2,10,30.0,True,versace|ve3385u,1,90.0,True,2026-09-12
+framesdirect,Versace,VE3386D,300.0,210.0,30%,https://www.framesdirect.com/versace-ve3386d-eyeglasses?color=2,6,30.0,True,versace|ve3386d,1,90.0,True,2026-09-12
+framesdirect,Versace,VE3387U,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3387u-eyeglasses?color=10061577,6,30.0,True,versace|ve3387u,1,103.8,True,2026-09-12
+framesdirect,Versace,VE3388U,376.0,263.2,30%,https://www.framesdirect.com/versace-ve3388u-eyeglasses?color=10061580,6,30.0,True,versace|ve3388u,1,112.8,True,2026-09-12
+framesdirect,Versace,VE3389U,406.0,284.2,30%,https://www.framesdirect.com/versace-ve3389u-eyeglasses?color=10061584,6,30.0,True,versace|ve3389u,1,121.8,True,2026-09-12
+framesdirect,Versace,VE3390U,406.0,284.2,30%,https://www.framesdirect.com/versace-ve3390u-eyeglasses?color=10061588,6,30.0,True,versace|ve3390u,1,121.8,True,2026-09-12
+framesdirect,Versace,VE3391U,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3391u-eyeglasses?color=10061592,6,30.0,True,versace|ve3391u,1,94.8,True,2026-09-12
+framesdirect,Versace,VE3392,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3392-eyeglasses?color=10061597,6,30.0,True,versace|ve3392,1,94.8,True,2026-09-12
+framesdirect,Versace,VE3392F,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3392f-eyeglasses?color=2,6,30.0,True,versace|ve3392f,1,94.8,True,2026-09-12
+framesdirect,Versace,VE3394D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3394d-eyeglasses?color=10061606,6,30.0,True,versace|ve3394d,1,94.8,True,2026-09-12
+framesdirect,Versace,VE3397U,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3397u-eyeglasses?color=10063428,3,30.0,True,versace|ve3397u,1,85.8,True,2026-09-12
+framesdirect,Versace,VE3398,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3398-eyeglasses?color=3,3,30.0,True,versace|ve3398,1,85.8,True,2026-09-12
+framesdirect,Versace,VE3398F,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3398f-eyeglasses?color=3,2,30.0,True,versace|ve3398f,1,85.8,True,2026-09-12
+framesdirect,Versace,VE3399U,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3399u-eyeglasses?color=3,2,30.0,True,versace|ve3399u,1,85.8,True,2026-09-12
+framesdirect,Versace,VE3404D,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3404d-eyeglasses?color=3,2,30.0,True,versace|ve3404d,1,85.8,True,2026-09-12
+framesdirect,XXL,Sabercat,182.38,91.19,50%,https://www.framesdirect.com/xxl-sabercat-eyeglasses?color=1,2,50.0,True,xxl|sabercat,1,91.19,True,2026-09-12
+framesdirect,XXL,Tuga,197.38,98.69,50%,https://www.framesdirect.com/xxl-tuga-eyeglasses?color=3,1,50.0,True,xxl|tuga,1,98.69,True,2026-09-12

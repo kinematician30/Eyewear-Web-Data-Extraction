@@ -1,25 +1,241 @@
-brand,name,former_price,current_price,discount
-Ray-Ban,RB5154 Clubmaster,,222.0,
-Ray-Ban,RB5397 - Elliot Optics,,210.0,
-Ray-Ban,RB6335,,210.0,
-Oakley,Holbrook RX,,187.0,
-Ray-Ban,RB7185,,162.0,
-Oakley,Volt Drop,227.0,158.9,30%
-Ray-Ban,RB3925V,222.0,155.4,30%
-Ray-Ban,RB7259D,,176.0,
-Oakley,HSTN SQ,,227.0,
-Oakley,Liteboard,,172.0,
-Versace,VE3346,376.0,188.0,50%
-XXL,Terrapin,184.88,92.44,50%
-Gucci,GG0026O,370.0,314.5,15%
-Versace,VE1274,316.0,221.2,30%
-Persol,PO3309V,370.0,185.0,50%
-Versace,VE1287,376.0,263.2,30%
-Costa,Pacific Rise 400,,211.0,
-Kate Spade,Lucyann,230.0,161.0,30%
-Persol,PO3284V,342.0,171.0,50%
-Ray-Ban Meta Gen 2,Meta Wayfarer (Gen 2),,379.0,
-Armani Exchange,AX3077,138.0,96.6,30%
-RALPH by Ralph Lauren,RA7158U,141.0,98.7,30%
-Tiffany & Co.,TF2270B,398.0,278.6,30%
-Vogue,VO4355,128.0,89.6,30%
+source,brand,name,former_price,current_price,discount,product_link,page
+framesdirect,Oakley,Wire Tap 2.0 RX,,387.0,,https://www.framesdirect.com/oakley-wire-tap-2.0-rx-eyeglasses?color=3,1
+framesdirect,Ray-Ban,RB7047,,176.0,,https://www.framesdirect.com/ray-ban-rb7047-eyeglasses?color=10007662,1
+framesdirect,Versace,VE1285,300.0,210.0,30%,https://www.framesdirect.com/versace-ve1285-eyeglasses?color=3,1
+framesdirect,Oakley,Airdrop,,227.0,,https://www.framesdirect.com/oakley-airdrop-eyeglasses?color=1,1
+framesdirect,Costa,Ocean Ridge 400,,211.0,,https://www.framesdirect.com/costa-ocean-ridge-400-eyeglasses?color=1,1
+framesdirect,Polo,PH2083,201.0,140.7,30%,https://www.framesdirect.com/polo-ph2083-eyeglasses?color=499297,1
+framesdirect,RALPH by Ralph Lauren,RA7158U,141.0,98.7,30%,https://www.framesdirect.com/ralph-by-ralph-lauren-ra7158u-eyeglasses?color=1,1
+framesdirect,Ray-Ban,RB5397 - Elliot Optics,,210.0,,https://www.framesdirect.com/ray-ban-rb5397-elliot-optics-eyeglasses?color=1,1
+framesdirect,Burberry,BE2073,249.0,174.3,30%,https://www.framesdirect.com/burberry-be2073-eyeglasses?color=469971,1
+framesdirect,Oakley,Socket 5.5,,227.0,,https://www.framesdirect.com/oakley-socket-5.5-eyeglasses?color=13,1
+framesdirect,Ray-Ban,RB4340V Wayfarer Ease,,210.0,,https://www.framesdirect.com/ray-ban-rb4340v-eyeglasses?color=10021732,1
+framesdirect,Kate Spade,KS Marnie 2/G,240.0,168.0,30%,https://www.framesdirect.com/kate-spade-ks-marnie-2-g-eyeglasses?color=2,1
+framesdirect,Oakley,Plank 2.0,,187.0,,https://www.framesdirect.com/oakley-plank-2.0-eyeglasses?color=6,1
+framesdirect,Ray-Ban,RB3447V Round Metal,,210.0,,https://www.framesdirect.com/ray-ban-rb3447v-round-metal-eyeglasses?color=10020477,1
+framesdirect,XXL,Tuga,197.38,98.69,50%,https://www.framesdirect.com/xxl-tuga-eyeglasses?color=3,1
+framesdirect,Costa,Ocean Ridge 820,,141.0,,https://www.framesdirect.com/costa-ocean-ridge-820-eyeglasses?color=2,1
+framesdirect,Giorgio Armani,AR7074,327.0,228.9,30%,https://www.framesdirect.com/giorgio-armani-ar7074-eyeglasses?color=10052175,1
+framesdirect,Burberry,BE1268,249.0,174.3,30%,https://www.framesdirect.com/burberry-be1268-eyeglasses?color=10003834,1
+framesdirect,Ray-Ban,RB6335,,210.0,,https://www.framesdirect.com/ray-ban-rb6335-eyeglasses?color=10009371,1
+framesdirect,Gucci,GG2144Oj,400.0,340.0,15%,https://www.framesdirect.com/gucci-gg2144oj-eyeglasses?color=10061716,1
+framesdirect,Oakley,Holbrook RX,,187.0,,https://www.framesdirect.com/oakley-holbrook-rx-eyeglasses?color=1,1
+framesdirect,Dolce & Gabbana,DG3363,288.0,144.0,50%,https://www.framesdirect.com/dolce-gabbana-dg3363-eyeglasses?color=6,1
+framesdirect,Oakley,Tie Bar 0.5,,387.0,,https://www.framesdirect.com/oakley-tie-bar-0.5-eyeglasses?color=3,1
+framesdirect,Ray-Ban,RB5154 Clubmaster,,222.0,,https://www.framesdirect.com/ray-ban-rb5154-clubmaster-eyeglasses?color=392445,1
+framesdirect,Kate Spade,Lucyann 2,230.0,161.0,30%,https://www.framesdirect.com/kate-spade-lucyann-2-eyeglasses?color=5021770,2
+framesdirect,Versace,VE1274,298.0,208.6,30%,https://www.framesdirect.com/versace-ve1274-eyeglasses?color=10051376,2
+framesdirect,Ray-Ban,RB6421,,210.0,,https://www.framesdirect.com/ray-ban-rb6421-eyeglasses?color=10026944,2
+framesdirect,Oakley,HSTN SQ,,227.0,,https://www.framesdirect.com/oakley-hstn-sq-eyeglasses?color=10057640,2
+framesdirect,Diesel,DL5002,170.0,119.0,30%,https://www.framesdirect.com/diesel-dl5002-eyeglasses?color=1,2
+framesdirect,Ray-Ban,RB7185,,162.0,,https://www.framesdirect.com/ray-ban-rb7185-eyeglasses?color=10047186,2
+framesdirect,Oakley,Hex Jector - Alternate Fit (TruBridge),,187.0,,https://www.framesdirect.com/oakley-hex-jector-alternate-fit-eyeglasses?color=2,2
+framesdirect,Costa,Ocean Ridge 720,,197.0,,https://www.framesdirect.com/costa-ocean-ridge-720-eyeglasses?color=2,2
+framesdirect,Scuderia Ferrari,FZ7009,215.0,150.5,30%,https://www.framesdirect.com/scuderia-ferrari-fz7009-eyeglasses?color=1,2
+framesdirect,Burberry,BE1392,421.0,294.7,30%,https://www.framesdirect.com/burberry-be1392-eyeglasses?color=1,2
+framesdirect,Ray-Ban,RB3681V,,162.0,,https://www.framesdirect.com/ray-ban-rb3681v-eyeglasses?color=3,2
+framesdirect,Oakley,Liteboard,,172.0,,https://www.framesdirect.com/oakley-liteboard-eyeglasses?color=10057590,2
+framesdirect,Ray-Ban,RB7190,,162.0,,https://www.framesdirect.com/ray-ban-rb7190-eyeglasses?color=10051085,2
+framesdirect,Costa,Ocean Ridge 710,,197.0,,https://www.framesdirect.com/costa-ocean-ridge-710-eyeglasses?color=1,2
+framesdirect,Oakley,Tincup,,346.0,,https://www.framesdirect.com/oakley-tincup-eyeglasses?color=2,2
+framesdirect,Tiffany & Co.,TF2271,453.0,317.1,30%,https://www.framesdirect.com/tiffany-co.-tf2271-eyeglasses?color=2,2
+framesdirect,Dolce & Gabbana,DG1361,480.0,336.0,30%,https://www.framesdirect.com/dolce-gabbana-dg1361-eyeglasses?color=1,2
+framesdirect,Gucci,GG2131O,490.0,416.5,15%,https://www.framesdirect.com/gucci-gg2131o-eyeglasses?color=10061708,2
+framesdirect,XXL,Sabercat,182.38,91.19,50%,https://www.framesdirect.com/xxl-sabercat-eyeglasses?color=1,2
+framesdirect,Ray-Ban,RB5406,,189.0,,https://www.framesdirect.com/ray-ban-rb5406-eyeglasses?color=4,2
+framesdirect,Oakley,Hex Jector (TruBridge),,187.0,,https://www.framesdirect.com/oakley-hex-jector-eyeglasses?color=4,2
+framesdirect,Versace,VE3404D,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3404d-eyeglasses?color=3,2
+framesdirect,Versace,VE3399U,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3399u-eyeglasses?color=3,2
+framesdirect,Versace,VE3398F,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3398f-eyeglasses?color=3,2
+framesdirect,Versace,VE3398,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3398-eyeglasses?color=3,3
+framesdirect,Versace,VE3397U,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3397u-eyeglasses?color=10063428,3
+framesdirect,Versace,VE1326,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1326-eyeglasses?color=10063416,3
+framesdirect,Versace,VE1325D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve1325d-eyeglasses?color=10063413,3
+framesdirect,Versace,VE1324D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve1324d-eyeglasses?color=10063410,3
+framesdirect,Versace,VE1323,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1323-eyeglasses?color=10063407,3
+framesdirect,Versace,VE1322,480.0,336.0,30%,https://www.framesdirect.com/versace-ve1322-eyeglasses?color=10063404,3
+framesdirect,Versace,VE1320,480.0,336.0,30%,https://www.framesdirect.com/versace-ve1320-eyeglasses?color=10063403,3
+framesdirect,Burberry,BE2475D,296.0,207.2,30%,https://www.framesdirect.com/burberry-be2475d-eyeglasses?color=10063180,3
+framesdirect,Burberry,BE2474D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2474d-eyeglasses?color=10063176,3
+framesdirect,Burberry,BE2473D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2473d-eyeglasses?color=10063172,3
+framesdirect,Burberry,BE2471U,296.0,207.2,30%,https://www.framesdirect.com/burberry-be2471u-eyeglasses?color=10063168,3
+framesdirect,Burberry,BE2470U,296.0,207.2,30%,https://www.framesdirect.com/burberry-be2470u-eyeglasses?color=10063164,3
+framesdirect,Burberry,BE2467F,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2467f-eyeglasses?color=10063160,3
+framesdirect,Burberry,BE2467,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2467-eyeglasses?color=10063156,3
+framesdirect,Burberry,BE2466F,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2466f-eyeglasses?color=10063153,3
+framesdirect,Burberry,BE2466,356.0,249.2,30%,https://www.framesdirect.com/burberry-be2466-eyeglasses?color=10063149,3
+framesdirect,Burberry,BE2465U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2465u-eyeglasses?color=10063145,3
+framesdirect,Burberry,BE2464U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2464u-eyeglasses?color=10063141,3
+framesdirect,Burberry,BE2463U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2463u-eyeglasses?color=10063137,3
+framesdirect,Burberry,BE1405,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1405-eyeglasses?color=10063120,3
+framesdirect,Ray-Ban,RB6558,,186.0,,https://www.framesdirect.com/ray-ban-rb6558-eyeglasses?color=10063096,3
+framesdirect,Ray-Ban,RB5510,,210.0,,https://www.framesdirect.com/ray-ban-rb5510-eyeglasses?color=10063094,3
+framesdirect,Ray-Ban,RB5461D,,210.0,,https://www.framesdirect.com/ray-ban-rb5461d-eyeglasses?color=10063092,3
+framesdirect,Ray-Ban,RB5460,,195.0,,https://www.framesdirect.com/ray-ban-rb5460-eyeglasses?color=10063086,4
+framesdirect,Ray-Ban,RB5458D,,210.0,,https://www.framesdirect.com/ray-ban-rb5458d-eyeglasses?color=1,4
+framesdirect,Ray-Ban,RB5457D,,210.0,,https://www.framesdirect.com/ray-ban-rb5457d-eyeglasses?color=10063082,4
+framesdirect,Ray-Ban,RB5456,,186.0,,https://www.framesdirect.com/ray-ban-rb5456-eyeglasses?color=10063079,4
+framesdirect,Ray-Ban,RB5455F,,186.0,,https://www.framesdirect.com/ray-ban-rb5455f-eyeglasses?color=1,4
+framesdirect,Ray-Ban,RB5455,,186.0,,https://www.framesdirect.com/ray-ban-rb5455-eyeglasses?color=10063069,4
+framesdirect,Ray-Ban,RB3793V,,222.0,,https://www.framesdirect.com/ray-ban-rb3793v-eyeglasses?color=10063054,4
+framesdirect,Ray-Ban,RB3792V,,195.0,,https://www.framesdirect.com/ray-ban-rb3792v-eyeglasses?color=10063052,4
+framesdirect,Oakley,Pitchman R (Low Bridge Fit),,255.0,,https://www.framesdirect.com/oakley-pitchman-r-low-bridge-fit-eyeglasses?color=10063016,4
+framesdirect,Oakley,Paracord X,,242.0,,https://www.framesdirect.com/oakley-paracord-x-eyeglasses?color=10063030,4
+framesdirect,Oakley,Holbrook,,187.0,,https://www.framesdirect.com/oakley-holbrook-eyeglasses?color=10063018,4
+framesdirect,Oakley,Enigma Echo,,255.0,,https://www.framesdirect.com/oakley-enigma-echo-eyeglasses?color=10063035,4
+framesdirect,Oakley,BMNG ARC,,242.0,,https://www.framesdirect.com/oakley-bmng-arc-eyeglasses?color=10063024,4
+framesdirect,Costa,Ocean Ridge 840,,141.0,,https://www.framesdirect.com/costa-ocean-ridge-840-eyeglasses?color=10063008,4
+framesdirect,Costa,Ocean Ridge 430,,211.0,,https://www.framesdirect.com/costa-ocean-ridge-430-eyeglasses?color=10063011,4
+framesdirect,Costa,Bimini Road 640,,211.0,,https://www.framesdirect.com/costa-bimini-road-640-eyeglasses?color=10062998,4
+framesdirect,Ray-Ban,RB2221VF,,210.0,,https://www.framesdirect.com/ray-ban-rb2221vf-eyeglasses?color=1,4
+framesdirect,Ray-Ban,RB8777D,,277.0,,https://www.framesdirect.com/ray-ban-rb8777d-eyeglasses?color=10062884,4
+framesdirect,Ray-Ban,RB8776D,,277.0,,https://www.framesdirect.com/ray-ban-rb8776d-eyeglasses?color=10062882,4
+framesdirect,Ray-Ban,RB7683V,,344.0,,https://www.framesdirect.com/ray-ban-rb7683v-eyeglasses?color=1,4
+framesdirect,Ray-Ban,RB7553,,276.0,,https://www.framesdirect.com/ray-ban-rb7553-eyeglasses?color=10062872,4
+framesdirect,Ray-Ban,RB7552,,276.0,,https://www.framesdirect.com/ray-ban-rb7552-eyeglasses?color=10062869,4
+framesdirect,Ray-Ban,RB7551,,263.0,,https://www.framesdirect.com/ray-ban-rb7551-eyeglasses?color=10062865,4
+framesdirect,Ray-Ban,RB7550,,263.0,,https://www.framesdirect.com/ray-ban-rb7550-eyeglasses?color=10062860,4
+framesdirect,Ray-Ban,RB7260F,,210.0,,https://www.framesdirect.com/ray-ban-rb7260f-eyeglasses?color=1,5
+framesdirect,Ray-Ban,RB7258F,,176.0,,https://www.framesdirect.com/ray-ban-rb7258f-eyeglasses?color=10062978,5
+framesdirect,Ray-Ban,RB7257F,,176.0,,https://www.framesdirect.com/ray-ban-rb7257f-eyeglasses?color=10062974,5
+framesdirect,Ray-Ban,RB7256F,,210.0,,https://www.framesdirect.com/ray-ban-rb7256f-eyeglasses?color=10062971,5
+framesdirect,Ray-Ban,RB7248D,,220.0,,https://www.framesdirect.com/ray-ban-rb7248d-eyeglasses?color=10062840,5
+framesdirect,Ray-Ban,RB7247D,,236.0,,https://www.framesdirect.com/ray-ban-rb7247d-eyeglasses?color=10062838,5
+framesdirect,Ray-Ban,RB7241D,,220.0,,https://www.framesdirect.com/ray-ban-rb7241d-eyeglasses?color=10062967,5
+framesdirect,Ray-Ban,RB7217,,189.0,,https://www.framesdirect.com/ray-ban-rb7217-eyeglasses?color=10062835,5
+framesdirect,Ray-Ban,RB7216,,222.0,,https://www.framesdirect.com/ray-ban-rb7216-eyeglasses?color=10062828,5
+framesdirect,Ray-Ban,RB6538D,,189.0,,https://www.framesdirect.com/ray-ban-rb6538d-eyeglasses?color=10062962,5
+framesdirect,Ray-Ban,RB6534,,189.0,,https://www.framesdirect.com/ray-ban-rb6534-eyeglasses?color=10062956,5
+framesdirect,Ray-Ban,RB6533,,189.0,,https://www.framesdirect.com/ray-ban-rb6533-eyeglasses?color=10062953,5
+framesdirect,Ray-Ban,RB6532,,249.0,,https://www.framesdirect.com/ray-ban-rb6532-eyeglasses?color=1,5
+framesdirect,Ray-Ban,RB6524D,,220.0,,https://www.framesdirect.com/ray-ban-rb6524d-eyeglasses?color=10062944,5
+framesdirect,Ray-Ban,RB6523D,,220.0,,https://www.framesdirect.com/ray-ban-rb6523d-eyeglasses?color=10062943,5
+framesdirect,Ray-Ban,RB6494,,237.0,,https://www.framesdirect.com/ray-ban-rb6494-eyeglasses?color=10062806,5
+framesdirect,Ray-Ban,RB6418D,,236.0,,https://www.framesdirect.com/ray-ban-rb6418d-eyeglasses?color=10062939,5
+framesdirect,Ray-Ban,RB5440F,,189.0,,https://www.framesdirect.com/ray-ban-rb5440f-eyeglasses?color=1,5
+framesdirect,Ray-Ban,RB5345D,,261.0,,https://www.framesdirect.com/ray-ban-rb5345d-eyeglasses?color=10062771,5
+framesdirect,Ray-Ban,RB5279F,,222.0,,https://www.framesdirect.com/ray-ban-rb5279f-eyeglasses?color=10062770,5
+framesdirect,Ray-Ban,RB5184F,,212.0,,https://www.framesdirect.com/ray-ban-rb5184f-eyeglasses?color=10062764,5
+framesdirect,Ray-Ban,RB4451V,,237.0,,https://www.framesdirect.com/ray-ban-rb4451v-eyeglasses?color=10062911,5
+framesdirect,Ray-Ban,RB4379VD,,220.0,,https://www.framesdirect.com/ray-ban-rb4379vd-eyeglasses?color=10062906,5
+framesdirect,Ray-Ban,RB4340V,,210.0,,https://www.framesdirect.com/ray-ban-rb4340v-eyeglasses?color=1,5
+framesdirect,Ray-Ban,RB3768V,,195.0,,https://www.framesdirect.com/ray-ban-rb3768v-eyeglasses?color=1,6
+framesdirect,Ray-Ban,RB3767V,,195.0,,https://www.framesdirect.com/ray-ban-rb3767v-eyeglasses?color=10062748,6
+framesdirect,Ray-Ban,RB2221V Optics,,210.0,,https://www.framesdirect.com/ray-ban-rb2221v-optics-eyeglasses?color=10062743,6
+framesdirect,Oakley,Versafuse SS,,276.0,,https://www.framesdirect.com/oakley-versafuse-ss-eyeglasses?color=10062737,6
+framesdirect,Oakley,Versafuse SQ,,276.0,,https://www.framesdirect.com/oakley-versafuse-sq-eyeglasses?color=10062739,6
+framesdirect,Oakley,Tailback 2.0,,500.0,,https://www.framesdirect.com/oakley-tailback-2.0-eyeglasses?color=10062691,6
+framesdirect,Oakley,Socket 5.0,,227.0,,https://www.framesdirect.com/oakley-socket-5.0-eyeglasses?color=10062686,6
+framesdirect,Oakley,Shackle,,242.0,,https://www.framesdirect.com/oakley-shackle-eyeglasses?color=10062729,6
+framesdirect,Oakley,Paracord,,242.0,,https://www.framesdirect.com/oakley-paracord-eyeglasses?color=10062725,6
+framesdirect,Oakley,Leadline,,227.0,,https://www.framesdirect.com/oakley-leadline-eyeglasses?color=10062707,6
+framesdirect,Oakley,Hex Jector (Low Bridge Fit),,187.0,,https://www.framesdirect.com/oakley-hex-jector-low-bridge-fit-eyeglasses?color=10062706,6
+framesdirect,Oakley,Hex Jector,,187.0,,https://www.framesdirect.com/oakley-hex-jector-eyeglasses?color=10062693,6
+framesdirect,Oakley,Foil SQ,,172.0,,https://www.framesdirect.com/oakley-foil-sq-eyeglasses?color=10062677,6
+framesdirect,Oakley,Foil RQ 0.5,,172.0,,https://www.framesdirect.com/oakley-foil-rq-0.5-eyeglasses?color=10062681,6
+framesdirect,Versace,VE3394D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3394d-eyeglasses?color=10061606,6
+framesdirect,Versace,VE3392F,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3392f-eyeglasses?color=2,6
+framesdirect,Versace,VE3392,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3392-eyeglasses?color=10061597,6
+framesdirect,Versace,VE3391U,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3391u-eyeglasses?color=10061592,6
+framesdirect,Versace,VE3390U,406.0,284.2,30%,https://www.framesdirect.com/versace-ve3390u-eyeglasses?color=10061588,6
+framesdirect,Versace,VE3389U,406.0,284.2,30%,https://www.framesdirect.com/versace-ve3389u-eyeglasses?color=10061584,6
+framesdirect,Versace,VE3388U,376.0,263.2,30%,https://www.framesdirect.com/versace-ve3388u-eyeglasses?color=10061580,6
+framesdirect,Versace,VE3387U,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3387u-eyeglasses?color=10061577,6
+framesdirect,Versace,VE3386D,300.0,210.0,30%,https://www.framesdirect.com/versace-ve3386d-eyeglasses?color=2,6
+framesdirect,Versace,VE3384F,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3384f-eyeglasses?color=3,6
+framesdirect,Versace,VE3384,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3384-eyeglasses?color=2,7
+framesdirect,Versace,VE3383F,376.0,263.2,30%,https://www.framesdirect.com/versace-ve3383f-eyeglasses?color=2,7
+framesdirect,Versace,VE3383,376.0,263.2,30%,https://www.framesdirect.com/versace-ve3383-eyeglasses?color=10061557,7
+framesdirect,Versace,VE3382F,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3382f-eyeglasses?color=3,7
+framesdirect,Versace,VE3382,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3382-eyeglasses?color=3,7
+framesdirect,Versace,VE3381U,300.0,210.0,30%,https://www.framesdirect.com/versace-ve3381u-eyeglasses?color=2,7
+framesdirect,Versace,VE3380F,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3380f-eyeglasses?color=3,7
+framesdirect,Versace,VE3380,346.0,242.2,30%,https://www.framesdirect.com/versace-ve3380-eyeglasses?color=3,7
+framesdirect,Versace,VE3379D,316.0,221.2,30%,https://www.framesdirect.com/versace-ve3379d-eyeglasses?color=1,7
+framesdirect,Versace,VE3375F,286.0,200.2,30%,https://www.framesdirect.com/versace-ve3375f-eyeglasses?color=10061526,7
+framesdirect,Versace,VE1318,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1318-eyeglasses?color=10061756,7
+framesdirect,Versace,VE1317,450.0,315.0,30%,https://www.framesdirect.com/versace-ve1317-eyeglasses?color=2,7
+framesdirect,Versace,VE1315,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1315-eyeglasses?color=10061749,7
+framesdirect,Versace,VE1314D,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1314d-eyeglasses?color=10061748,7
+framesdirect,Versace,VE1313D,286.0,200.2,30%,https://www.framesdirect.com/versace-ve1313d-eyeglasses?color=10061742,7
+framesdirect,Versace,VE1312,286.0,200.2,30%,https://www.framesdirect.com/versace-ve1312-eyeglasses?color=10061739,7
+framesdirect,Versace,VE1311,286.0,200.2,30%,https://www.framesdirect.com/versace-ve1311-eyeglasses?color=10061738,7
+framesdirect,Versace,VE1310,406.0,284.2,30%,https://www.framesdirect.com/versace-ve1310-eyeglasses?color=10061733,7
+framesdirect,Versace,VE1309,480.0,336.0,30%,https://www.framesdirect.com/versace-ve1309-eyeglasses?color=2,7
+framesdirect,Versace,VE1308,376.0,263.2,30%,https://www.framesdirect.com/versace-ve1308-eyeglasses?color=10061727,7
+framesdirect,Gucci,GG2148Oa,575.0,488.75,15%,https://www.framesdirect.com/gucci-gg2148oa-eyeglasses?color=10061717,7
+framesdirect,Gucci,GG2142Oj,460.0,391.0,15%,https://www.framesdirect.com/gucci-gg2142oj-eyeglasses?color=10061713,7
+framesdirect,Gucci,GG2141Ok,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2141ok-eyeglasses?color=10061712,7
+framesdirect,Gucci,GG2135O,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2135o-eyeglasses?color=10061709,7
+framesdirect,Gucci,GG2091O,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg2091o-eyeglasses?color=10061704,8
+framesdirect,Gucci,GG2083O,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg2083o-eyeglasses?color=10061703,8
+framesdirect,Gucci,GG2070O,490.0,416.5,15%,https://www.framesdirect.com/gucci-gg2070o-eyeglasses?color=10061700,8
+framesdirect,Gucci,GG2066O,490.0,416.5,15%,https://www.framesdirect.com/gucci-gg2066o-eyeglasses?color=10061698,8
+framesdirect,Gucci,GG2035Oa,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2035oa-eyeglasses?color=10061696,8
+framesdirect,Gucci,GG2006OA,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg2006oa-eyeglasses?color=10061693,8
+framesdirect,Gucci,GG2005OA,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg2005oa-eyeglasses?color=10061691,8
+framesdirect,Gucci,GG2004OA,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2004oa-eyeglasses?color=10061689,8
+framesdirect,Gucci,GG2003OJ,445.0,378.25,15%,https://www.framesdirect.com/gucci-gg2003oj-eyeglasses?color=10061687,8
+framesdirect,Gucci,GG2002OJ,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg2002oj-eyeglasses?color=10061685,8
+framesdirect,Gucci,GG2000OJ,830.0,705.5,15%,https://www.framesdirect.com/gucci-gg2000oj-eyeglasses?color=10061683,8
+framesdirect,Gucci,GG1997O,415.0,290.5,30%,https://www.framesdirect.com/gucci-gg1997o-eyeglasses?color=10061682,8
+framesdirect,Gucci,GG1996O,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg1996o-eyeglasses?color=10061677,8
+framesdirect,Gucci,GG1994O,415.0,352.75,15%,https://www.framesdirect.com/gucci-gg1994o-eyeglasses?color=10061674,8
+framesdirect,Gucci,GG1993OK,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg1993ok-eyeglasses?color=10061672,8
+framesdirect,Gucci,GG1989O,370.0,314.5,15%,https://www.framesdirect.com/gucci-gg1989o-eyeglasses?color=10061671,8
+framesdirect,Gucci,GG1988OK,330.0,280.5,15%,https://www.framesdirect.com/gucci-gg1988ok-eyeglasses?color=10061668,8
+framesdirect,Gucci,GG1972OA,665.0,565.25,15%,https://www.framesdirect.com/gucci-gg1972oa-eyeglasses?color=10061666,8
+framesdirect,Gucci,GG1964O,650.0,552.5,15%,https://www.framesdirect.com/gucci-gg1964o-eyeglasses?color=10061665,8
+framesdirect,Gucci,GG1961O,575.0,488.75,15%,https://www.framesdirect.com/gucci-gg1961o-eyeglasses?color=10061664,8
+framesdirect,Gucci,GG1949OK,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg1949ok-eyeglasses?color=10061662,8
+framesdirect,Gucci,GG1947O,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg1947o-eyeglasses?color=10061661,8
+framesdirect,Gucci,GG1945O,515.0,437.75,15%,https://www.framesdirect.com/gucci-gg1945o-eyeglasses?color=10061659,8
+framesdirect,Gucci,GG1938O,545.0,463.25,15%,https://www.framesdirect.com/gucci-gg1938o-eyeglasses?color=10061657,8
+framesdirect,Gucci,GG1746OA,590.0,501.5,15%,https://www.framesdirect.com/gucci-gg1746oa-eyeglasses?color=10061652,9
+framesdirect,Gucci,GG1745OA,560.0,476.0,15%,https://www.framesdirect.com/gucci-gg1745oa-eyeglasses?color=10061653,9
+framesdirect,Gucci,GG1500OK,530.0,450.5,15%,https://www.framesdirect.com/gucci-gg1500ok-eyeglasses?color=10061655,9
+framesdirect,Costa,Ocean Ridge 730,,197.0,,https://www.framesdirect.com/costa-ocean-ridge-730-eyeglasses?color=10061644,9
+framesdirect,Burberry,BE2461D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2461d-eyeglasses?color=10060703,9
+framesdirect,Burberry,BE2460D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2460d-eyeglasses?color=10060703,9
+framesdirect,Burberry,BE2459D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be2459d-eyeglasses?color=10056165,9
+framesdirect,Burberry,BE2458,358.0,250.6,30%,https://www.framesdirect.com/burberry-be2458-eyeglasses?color=10056160,9
+framesdirect,Burberry,BE2457U,421.0,294.7,30%,https://www.framesdirect.com/burberry-be2457u-eyeglasses?color=10056160,9
+framesdirect,Burberry,BE2452U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2452u-eyeglasses?color=10060703,9
+framesdirect,Burberry,BE2451U,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2451u-eyeglasses?color=10060703,9
+framesdirect,Burberry,BE2450D,327.0,228.9,30%,https://www.framesdirect.com/burberry-be2450d-eyeglasses?color=10056167,9
+framesdirect,Burberry,BE2449D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be2449d-eyeglasses?color=10056169,9
+framesdirect,Burberry,BE2448D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2448d-eyeglasses?color=10056144,9
+framesdirect,Burberry,BE2447D,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2447d-eyeglasses?color=10056152,9
+framesdirect,Burberry,BE2445F,390.0,273.0,30%,https://www.framesdirect.com/burberry-be2445f-eyeglasses?color=10056170,9
+framesdirect,Burberry,BE2443F,358.0,250.6,30%,https://www.framesdirect.com/burberry-be2443f-eyeglasses?color=10056160,9
+framesdirect,Burberry,BE2440F,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2440f-eyeglasses?color=10056143,9
+framesdirect,Burberry,BE2439F,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2439f-eyeglasses?color=10056144,9
+framesdirect,Burberry,BE2438F,311.0,217.7,30%,https://www.framesdirect.com/burberry-be2438f-eyeglasses?color=10056144,9
+framesdirect,Burberry,BE2436D,327.0,228.9,30%,https://www.framesdirect.com/burberry-be2436d-eyeglasses?color=10056153,9
+framesdirect,Burberry,BE1403D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1403d-eyeglasses?color=10060882,9
+framesdirect,Burberry,BE1402D,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1402d-eyeglasses?color=10060878,9
+framesdirect,Burberry,BE1401,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1401-eyeglasses?color=10060875,9
+framesdirect,Burberry,BE1399,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1399-eyeglasses?color=10056132,10
+framesdirect,Burberry,BE1398,390.0,273.0,30%,https://www.framesdirect.com/burberry-be1398-eyeglasses?color=10056132,10
+framesdirect,Oakley,Currency,,276.0,,https://www.framesdirect.com/oakley-currency-eyeglasses?color=500277,10
+framesdirect,Oakley,Tumbleweed,,255.0,,https://www.framesdirect.com/oakley-tumbleweed-eyeglasses?color=500140,10
+framesdirect,Versace,VE1184,270.0,189.0,30%,https://www.framesdirect.com/versace-ve1184-eyeglasses?color=497389,10
+framesdirect,Versace,VE1066,270.0,189.0,30%,https://www.framesdirect.com/versace-ve1066-eyeglasses?color=497351,10
+framesdirect,Ray-Ban,RB5245,,210.0,,https://www.framesdirect.com/ray-ban-rx5245-eyeglasses?color=497723,10
+framesdirect,Oakley,Rhinochaser,,276.0,,https://www.framesdirect.com/oakley-rhinochaser-eyeglasses?color=496157,10
+framesdirect,Oakley,Clubface,,276.0,,https://www.framesdirect.com/oakley-clubface-eyeglasses?color=473191,10
+framesdirect,Ray-Ban,RB5228,,222.0,,https://www.framesdirect.com/ray-ban-rb5228-eyeglasses?color=471952,10
+framesdirect,Ray-Ban,RB5206,,210.0,,https://www.framesdirect.com/ray-ban-rb5206-eyeglasses?color=10002080,10
+framesdirect,Versace,VE1175B,316.0,221.2,30%,https://www.framesdirect.com/versace-ve1175b-eyeglasses?color=471502,10
+framesdirect,Ray-Ban,RB5169,,186.0,,https://www.framesdirect.com/ray-ban-rb5169-eyeglasses?color=422162,10
+framesdirect,Oakley,Metal Plate,346.0,173.0,50%,https://www.framesdirect.com/oakley-metal-plate-eyeglasses?color=10059667,10
+framesdirect,Oakley,Bottle Rocket 4.0,,276.0,,https://www.framesdirect.com/oakley-bottle-rocket-4.0-eyeglasses?color=333571,10
+framesdirect,Ray-Ban,RB7017,,222.0,,https://www.framesdirect.com/ray-ban-rb7017-eyeglasses?color=1,10
+framesdirect,Ray-Ban,RB5286,,222.0,,https://www.framesdirect.com/ray-ban-rb5286-eyeglasses?color=4,10
+framesdirect,Oakley,Persuasive,183.0,91.5,50%,https://www.framesdirect.com/oakley-persuasive-eyeglasses?color=1,10
+framesdirect,Burberry,BE2108,265.0,185.5,30%,https://www.framesdirect.com/burberry-be2108-eyeglasses?color=1,10
+framesdirect,Ray-Ban,RB5285,,222.0,,https://www.framesdirect.com/ray-ban-rb5285-eyeglasses?color=10024344,10
+framesdirect,Ray-Ban,RB5277,,186.0,,https://www.framesdirect.com/ray-ban-rb5277-eyeglasses?color=5,10
+framesdirect,Ray-Ban,RB5279,,186.0,,https://www.framesdirect.com/ray-ban-rb5279-eyeglasses?color=3,10
+framesdirect,Ray-Ban,RB5268,,176.0,,https://www.framesdirect.com/ray-ban-rb5268-eyeglasses?color=3,10
+framesdirect,Versace,VE3385U,300.0,210.0,30%,https://www.framesdirect.com/versace-ve3385u-eyeglasses?color=2,10

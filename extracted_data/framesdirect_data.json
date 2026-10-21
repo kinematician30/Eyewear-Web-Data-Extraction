@@ -1,170 +1,2402 @@
 [
     {
-        "brand": "Ray-Ban",
-        "name": "RB5154 Clubmaster",
-        "former_price": null,
-        "current_price": 222.0,
-        "discount": null
-    },
-    {
-        "brand": "Ray-Ban",
-        "name": "RB5397 - Elliot Optics",
-        "former_price": null,
-        "current_price": 210.0,
-        "discount": null
-    },
-    {
-        "brand": "Ray-Ban",
-        "name": "RB6335",
-        "former_price": null,
-        "current_price": 210.0,
-        "discount": null
-    },
-    {
+        "source": "framesdirect",
         "brand": "Oakley",
-        "name": "Holbrook RX",
+        "name": "Wire Tap 2.0 RX",
         "former_price": null,
-        "current_price": 187.0,
-        "discount": null
+        "current_price": 387.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-wire-tap-2.0-rx-eyeglasses?color=3",
+        "page": 1
     },
     {
+        "source": "framesdirect",
         "brand": "Ray-Ban",
-        "name": "RB7185",
-        "former_price": null,
-        "current_price": 162.0,
-        "discount": null
-    },
-    {
-        "brand": "Oakley",
-        "name": "Volt Drop",
-        "former_price": 227.0,
-        "current_price": 158.9,
-        "discount": "30%"
-    },
-    {
-        "brand": "Ray-Ban",
-        "name": "RB3925V",
-        "former_price": 222.0,
-        "current_price": 155.4,
-        "discount": "30%"
-    },
-    {
-        "brand": "Ray-Ban",
-        "name": "RB7259D",
+        "name": "RB7047",
         "former_price": null,
         "current_price": 176.0,
-        "discount": null
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7047-eyeglasses?color=10007662",
+        "page": 1
     },
     {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1285",
+        "former_price": 300.0,
+        "current_price": 210.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1285-eyeglasses?color=3",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
         "brand": "Oakley",
-        "name": "HSTN SQ",
+        "name": "Airdrop",
         "former_price": null,
         "current_price": 227.0,
-        "discount": null
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-airdrop-eyeglasses?color=1",
+        "page": 1
     },
     {
-        "brand": "Oakley",
-        "name": "Liteboard",
-        "former_price": null,
-        "current_price": 172.0,
-        "discount": null
-    },
-    {
-        "brand": "Versace",
-        "name": "VE3346",
-        "former_price": 376.0,
-        "current_price": 188.0,
-        "discount": "50%"
-    },
-    {
-        "brand": "XXL",
-        "name": "Terrapin",
-        "former_price": 184.88,
-        "current_price": 92.44,
-        "discount": "50%"
-    },
-    {
-        "brand": "Gucci",
-        "name": "GG0026O",
-        "former_price": 370.0,
-        "current_price": 314.5,
-        "discount": "15%"
-    },
-    {
-        "brand": "Versace",
-        "name": "VE1274",
-        "former_price": 316.0,
-        "current_price": 221.2,
-        "discount": "30%"
-    },
-    {
-        "brand": "Persol",
-        "name": "PO3309V",
-        "former_price": 370.0,
-        "current_price": 185.0,
-        "discount": "50%"
-    },
-    {
-        "brand": "Versace",
-        "name": "VE1287",
-        "former_price": 376.0,
-        "current_price": 263.2,
-        "discount": "30%"
-    },
-    {
+        "source": "framesdirect",
         "brand": "Costa",
-        "name": "Pacific Rise 400",
+        "name": "Ocean Ridge 400",
         "former_price": null,
         "current_price": 211.0,
-        "discount": null
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-ocean-ridge-400-eyeglasses?color=1",
+        "page": 1
     },
     {
-        "brand": "Kate Spade",
-        "name": "Lucyann",
-        "former_price": 230.0,
-        "current_price": 161.0,
-        "discount": "30%"
+        "source": "framesdirect",
+        "brand": "Polo",
+        "name": "PH2083",
+        "former_price": 201.0,
+        "current_price": 140.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/polo-ph2083-eyeglasses?color=499297",
+        "page": 1
     },
     {
-        "brand": "Persol",
-        "name": "PO3284V",
-        "former_price": 342.0,
-        "current_price": 171.0,
-        "discount": "50%"
-    },
-    {
-        "brand": "Ray-Ban Meta Gen 2",
-        "name": "Meta Wayfarer (Gen 2)",
-        "former_price": null,
-        "current_price": 379.0,
-        "discount": null
-    },
-    {
-        "brand": "Armani Exchange",
-        "name": "AX3077",
-        "former_price": 138.0,
-        "current_price": 96.6,
-        "discount": "30%"
-    },
-    {
+        "source": "framesdirect",
         "brand": "RALPH by Ralph Lauren",
         "name": "RA7158U",
         "former_price": 141.0,
         "current_price": 98.7,
-        "discount": "30%"
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/ralph-by-ralph-lauren-ra7158u-eyeglasses?color=1",
+        "page": 1
     },
     {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5397 - Elliot Optics",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5397-elliot-optics-eyeglasses?color=1",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2073",
+        "former_price": 249.0,
+        "current_price": 174.3,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2073-eyeglasses?color=469971",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Socket 5.5",
+        "former_price": null,
+        "current_price": 227.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-socket-5.5-eyeglasses?color=13",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB4340V Wayfarer Ease",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb4340v-eyeglasses?color=10021732",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Kate Spade",
+        "name": "KS Marnie 2/G",
+        "former_price": 240.0,
+        "current_price": 168.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/kate-spade-ks-marnie-2-g-eyeglasses?color=2",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Plank 2.0",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-plank-2.0-eyeglasses?color=6",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB3447V Round Metal",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb3447v-round-metal-eyeglasses?color=10020477",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "XXL",
+        "name": "Tuga",
+        "former_price": 197.38,
+        "current_price": 98.69,
+        "discount": "50%",
+        "product_link": "https://www.framesdirect.com/xxl-tuga-eyeglasses?color=3",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Costa",
+        "name": "Ocean Ridge 820",
+        "former_price": null,
+        "current_price": 141.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-ocean-ridge-820-eyeglasses?color=2",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Giorgio Armani",
+        "name": "AR7074",
+        "former_price": 327.0,
+        "current_price": 228.9,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/giorgio-armani-ar7074-eyeglasses?color=10052175",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1268",
+        "former_price": 249.0,
+        "current_price": 174.3,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1268-eyeglasses?color=10003834",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6335",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6335-eyeglasses?color=10009371",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2144Oj",
+        "former_price": 400.0,
+        "current_price": 340.0,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2144oj-eyeglasses?color=10061716",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Holbrook RX",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-holbrook-rx-eyeglasses?color=1",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Dolce & Gabbana",
+        "name": "DG3363",
+        "former_price": 288.0,
+        "current_price": 144.0,
+        "discount": "50%",
+        "product_link": "https://www.framesdirect.com/dolce-gabbana-dg3363-eyeglasses?color=6",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Tie Bar 0.5",
+        "former_price": null,
+        "current_price": 387.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-tie-bar-0.5-eyeglasses?color=3",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5154 Clubmaster",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5154-clubmaster-eyeglasses?color=392445",
+        "page": 1
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Kate Spade",
+        "name": "Lucyann 2",
+        "former_price": 230.0,
+        "current_price": 161.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/kate-spade-lucyann-2-eyeglasses?color=5021770",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1274",
+        "former_price": 298.0,
+        "current_price": 208.6,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1274-eyeglasses?color=10051376",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6421",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6421-eyeglasses?color=10026944",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "HSTN SQ",
+        "former_price": null,
+        "current_price": 227.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-hstn-sq-eyeglasses?color=10057640",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Diesel",
+        "name": "DL5002",
+        "former_price": 170.0,
+        "current_price": 119.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/diesel-dl5002-eyeglasses?color=1",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7185",
+        "former_price": null,
+        "current_price": 162.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7185-eyeglasses?color=10047186",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Hex Jector - Alternate Fit (TruBridge)",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-hex-jector-alternate-fit-eyeglasses?color=2",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Costa",
+        "name": "Ocean Ridge 720",
+        "former_price": null,
+        "current_price": 197.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-ocean-ridge-720-eyeglasses?color=2",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Scuderia Ferrari",
+        "name": "FZ7009",
+        "former_price": 215.0,
+        "current_price": 150.5,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/scuderia-ferrari-fz7009-eyeglasses?color=1",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1392",
+        "former_price": 421.0,
+        "current_price": 294.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1392-eyeglasses?color=1",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB3681V",
+        "former_price": null,
+        "current_price": 162.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb3681v-eyeglasses?color=3",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Liteboard",
+        "former_price": null,
+        "current_price": 172.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-liteboard-eyeglasses?color=10057590",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7190",
+        "former_price": null,
+        "current_price": 162.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7190-eyeglasses?color=10051085",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Costa",
+        "name": "Ocean Ridge 710",
+        "former_price": null,
+        "current_price": 197.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-ocean-ridge-710-eyeglasses?color=1",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Tincup",
+        "former_price": null,
+        "current_price": 346.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-tincup-eyeglasses?color=2",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
         "brand": "Tiffany & Co.",
-        "name": "TF2270B",
-        "former_price": 398.0,
-        "current_price": 278.6,
-        "discount": "30%"
+        "name": "TF2271",
+        "former_price": 453.0,
+        "current_price": 317.1,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/tiffany-co.-tf2271-eyeglasses?color=2",
+        "page": 2
     },
     {
-        "brand": "Vogue",
-        "name": "VO4355",
-        "former_price": 128.0,
-        "current_price": 89.6,
-        "discount": "30%"
+        "source": "framesdirect",
+        "brand": "Dolce & Gabbana",
+        "name": "DG1361",
+        "former_price": 480.0,
+        "current_price": 336.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/dolce-gabbana-dg1361-eyeglasses?color=1",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2131O",
+        "former_price": 490.0,
+        "current_price": 416.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2131o-eyeglasses?color=10061708",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "XXL",
+        "name": "Sabercat",
+        "former_price": 182.38,
+        "current_price": 91.19,
+        "discount": "50%",
+        "product_link": "https://www.framesdirect.com/xxl-sabercat-eyeglasses?color=1",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5406",
+        "former_price": null,
+        "current_price": 189.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5406-eyeglasses?color=4",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Hex Jector (TruBridge)",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-hex-jector-eyeglasses?color=4",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3404D",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3404d-eyeglasses?color=3",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3399U",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3399u-eyeglasses?color=3",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3398F",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3398f-eyeglasses?color=3",
+        "page": 2
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3398",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3398-eyeglasses?color=3",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3397U",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3397u-eyeglasses?color=10063428",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1326",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1326-eyeglasses?color=10063416",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1325D",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1325d-eyeglasses?color=10063413",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1324D",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1324d-eyeglasses?color=10063410",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1323",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1323-eyeglasses?color=10063407",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1322",
+        "former_price": 480.0,
+        "current_price": 336.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1322-eyeglasses?color=10063404",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1320",
+        "former_price": 480.0,
+        "current_price": 336.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1320-eyeglasses?color=10063403",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2475D",
+        "former_price": 296.0,
+        "current_price": 207.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2475d-eyeglasses?color=10063180",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2474D",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2474d-eyeglasses?color=10063176",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2473D",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2473d-eyeglasses?color=10063172",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2471U",
+        "former_price": 296.0,
+        "current_price": 207.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2471u-eyeglasses?color=10063168",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2470U",
+        "former_price": 296.0,
+        "current_price": 207.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2470u-eyeglasses?color=10063164",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2467F",
+        "former_price": 356.0,
+        "current_price": 249.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2467f-eyeglasses?color=10063160",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2467",
+        "former_price": 356.0,
+        "current_price": 249.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2467-eyeglasses?color=10063156",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2466F",
+        "former_price": 356.0,
+        "current_price": 249.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2466f-eyeglasses?color=10063153",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2466",
+        "former_price": 356.0,
+        "current_price": 249.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2466-eyeglasses?color=10063149",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2465U",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2465u-eyeglasses?color=10063145",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2464U",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2464u-eyeglasses?color=10063141",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2463U",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2463u-eyeglasses?color=10063137",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1405",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1405-eyeglasses?color=10063120",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6558",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6558-eyeglasses?color=10063096",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5510",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5510-eyeglasses?color=10063094",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5461D",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5461d-eyeglasses?color=10063092",
+        "page": 3
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5460",
+        "former_price": null,
+        "current_price": 195.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5460-eyeglasses?color=10063086",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5458D",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5458d-eyeglasses?color=1",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5457D",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5457d-eyeglasses?color=10063082",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5456",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5456-eyeglasses?color=10063079",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5455F",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5455f-eyeglasses?color=1",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5455",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5455-eyeglasses?color=10063069",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB3793V",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb3793v-eyeglasses?color=10063054",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB3792V",
+        "former_price": null,
+        "current_price": 195.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb3792v-eyeglasses?color=10063052",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Pitchman R (Low Bridge Fit)",
+        "former_price": null,
+        "current_price": 255.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-pitchman-r-low-bridge-fit-eyeglasses?color=10063016",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Paracord X",
+        "former_price": null,
+        "current_price": 242.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-paracord-x-eyeglasses?color=10063030",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Holbrook",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-holbrook-eyeglasses?color=10063018",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Enigma Echo",
+        "former_price": null,
+        "current_price": 255.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-enigma-echo-eyeglasses?color=10063035",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "BMNG ARC",
+        "former_price": null,
+        "current_price": 242.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-bmng-arc-eyeglasses?color=10063024",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Costa",
+        "name": "Ocean Ridge 840",
+        "former_price": null,
+        "current_price": 141.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-ocean-ridge-840-eyeglasses?color=10063008",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Costa",
+        "name": "Ocean Ridge 430",
+        "former_price": null,
+        "current_price": 211.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-ocean-ridge-430-eyeglasses?color=10063011",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Costa",
+        "name": "Bimini Road 640",
+        "former_price": null,
+        "current_price": 211.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-bimini-road-640-eyeglasses?color=10062998",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB2221VF",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb2221vf-eyeglasses?color=1",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB8777D",
+        "former_price": null,
+        "current_price": 277.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb8777d-eyeglasses?color=10062884",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB8776D",
+        "former_price": null,
+        "current_price": 277.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb8776d-eyeglasses?color=10062882",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7683V",
+        "former_price": null,
+        "current_price": 344.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7683v-eyeglasses?color=1",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7553",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7553-eyeglasses?color=10062872",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7552",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7552-eyeglasses?color=10062869",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7551",
+        "former_price": null,
+        "current_price": 263.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7551-eyeglasses?color=10062865",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7550",
+        "former_price": null,
+        "current_price": 263.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7550-eyeglasses?color=10062860",
+        "page": 4
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7260F",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7260f-eyeglasses?color=1",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7258F",
+        "former_price": null,
+        "current_price": 176.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7258f-eyeglasses?color=10062978",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7257F",
+        "former_price": null,
+        "current_price": 176.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7257f-eyeglasses?color=10062974",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7256F",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7256f-eyeglasses?color=10062971",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7248D",
+        "former_price": null,
+        "current_price": 220.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7248d-eyeglasses?color=10062840",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7247D",
+        "former_price": null,
+        "current_price": 236.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7247d-eyeglasses?color=10062838",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7241D",
+        "former_price": null,
+        "current_price": 220.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7241d-eyeglasses?color=10062967",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7217",
+        "former_price": null,
+        "current_price": 189.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7217-eyeglasses?color=10062835",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7216",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7216-eyeglasses?color=10062828",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6538D",
+        "former_price": null,
+        "current_price": 189.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6538d-eyeglasses?color=10062962",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6534",
+        "former_price": null,
+        "current_price": 189.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6534-eyeglasses?color=10062956",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6533",
+        "former_price": null,
+        "current_price": 189.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6533-eyeglasses?color=10062953",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6532",
+        "former_price": null,
+        "current_price": 249.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6532-eyeglasses?color=1",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6524D",
+        "former_price": null,
+        "current_price": 220.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6524d-eyeglasses?color=10062944",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6523D",
+        "former_price": null,
+        "current_price": 220.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6523d-eyeglasses?color=10062943",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6494",
+        "former_price": null,
+        "current_price": 237.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6494-eyeglasses?color=10062806",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB6418D",
+        "former_price": null,
+        "current_price": 236.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb6418d-eyeglasses?color=10062939",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5440F",
+        "former_price": null,
+        "current_price": 189.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5440f-eyeglasses?color=1",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5345D",
+        "former_price": null,
+        "current_price": 261.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5345d-eyeglasses?color=10062771",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5279F",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5279f-eyeglasses?color=10062770",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5184F",
+        "former_price": null,
+        "current_price": 212.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5184f-eyeglasses?color=10062764",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB4451V",
+        "former_price": null,
+        "current_price": 237.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb4451v-eyeglasses?color=10062911",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB4379VD",
+        "former_price": null,
+        "current_price": 220.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb4379vd-eyeglasses?color=10062906",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB4340V",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb4340v-eyeglasses?color=1",
+        "page": 5
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB3768V",
+        "former_price": null,
+        "current_price": 195.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb3768v-eyeglasses?color=1",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB3767V",
+        "former_price": null,
+        "current_price": 195.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb3767v-eyeglasses?color=10062748",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB2221V Optics",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb2221v-optics-eyeglasses?color=10062743",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Versafuse SS",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-versafuse-ss-eyeglasses?color=10062737",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Versafuse SQ",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-versafuse-sq-eyeglasses?color=10062739",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Tailback 2.0",
+        "former_price": null,
+        "current_price": 500.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-tailback-2.0-eyeglasses?color=10062691",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Socket 5.0",
+        "former_price": null,
+        "current_price": 227.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-socket-5.0-eyeglasses?color=10062686",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Shackle",
+        "former_price": null,
+        "current_price": 242.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-shackle-eyeglasses?color=10062729",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Paracord",
+        "former_price": null,
+        "current_price": 242.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-paracord-eyeglasses?color=10062725",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Leadline",
+        "former_price": null,
+        "current_price": 227.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-leadline-eyeglasses?color=10062707",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Hex Jector (Low Bridge Fit)",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-hex-jector-low-bridge-fit-eyeglasses?color=10062706",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Hex Jector",
+        "former_price": null,
+        "current_price": 187.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-hex-jector-eyeglasses?color=10062693",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Foil SQ",
+        "former_price": null,
+        "current_price": 172.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-foil-sq-eyeglasses?color=10062677",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Foil RQ 0.5",
+        "former_price": null,
+        "current_price": 172.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-foil-rq-0.5-eyeglasses?color=10062681",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3394D",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3394d-eyeglasses?color=10061606",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3392F",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3392f-eyeglasses?color=2",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3392",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3392-eyeglasses?color=10061597",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3391U",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3391u-eyeglasses?color=10061592",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3390U",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3390u-eyeglasses?color=10061588",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3389U",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3389u-eyeglasses?color=10061584",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3388U",
+        "former_price": 376.0,
+        "current_price": 263.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3388u-eyeglasses?color=10061580",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3387U",
+        "former_price": 346.0,
+        "current_price": 242.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3387u-eyeglasses?color=10061577",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3386D",
+        "former_price": 300.0,
+        "current_price": 210.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3386d-eyeglasses?color=2",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3384F",
+        "former_price": 346.0,
+        "current_price": 242.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3384f-eyeglasses?color=3",
+        "page": 6
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3384",
+        "former_price": 346.0,
+        "current_price": 242.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3384-eyeglasses?color=2",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3383F",
+        "former_price": 376.0,
+        "current_price": 263.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3383f-eyeglasses?color=2",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3383",
+        "former_price": 376.0,
+        "current_price": 263.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3383-eyeglasses?color=10061557",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3382F",
+        "former_price": 346.0,
+        "current_price": 242.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3382f-eyeglasses?color=3",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3382",
+        "former_price": 346.0,
+        "current_price": 242.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3382-eyeglasses?color=3",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3381U",
+        "former_price": 300.0,
+        "current_price": 210.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3381u-eyeglasses?color=2",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3380F",
+        "former_price": 346.0,
+        "current_price": 242.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3380f-eyeglasses?color=3",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3380",
+        "former_price": 346.0,
+        "current_price": 242.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3380-eyeglasses?color=3",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3379D",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3379d-eyeglasses?color=1",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3375F",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3375f-eyeglasses?color=10061526",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1318",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1318-eyeglasses?color=10061756",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1317",
+        "former_price": 450.0,
+        "current_price": 315.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1317-eyeglasses?color=2",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1315",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1315-eyeglasses?color=10061749",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1314D",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1314d-eyeglasses?color=10061748",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1313D",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1313d-eyeglasses?color=10061742",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1312",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1312-eyeglasses?color=10061739",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1311",
+        "former_price": 286.0,
+        "current_price": 200.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1311-eyeglasses?color=10061738",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1310",
+        "former_price": 406.0,
+        "current_price": 284.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1310-eyeglasses?color=10061733",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1309",
+        "former_price": 480.0,
+        "current_price": 336.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1309-eyeglasses?color=2",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1308",
+        "former_price": 376.0,
+        "current_price": 263.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1308-eyeglasses?color=10061727",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2148Oa",
+        "former_price": 575.0,
+        "current_price": 488.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2148oa-eyeglasses?color=10061717",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2142Oj",
+        "former_price": 460.0,
+        "current_price": 391.0,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2142oj-eyeglasses?color=10061713",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2141Ok",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2141ok-eyeglasses?color=10061712",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2135O",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2135o-eyeglasses?color=10061709",
+        "page": 7
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2091O",
+        "former_price": 545.0,
+        "current_price": 463.25,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2091o-eyeglasses?color=10061704",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2083O",
+        "former_price": 415.0,
+        "current_price": 352.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2083o-eyeglasses?color=10061703",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2070O",
+        "former_price": 490.0,
+        "current_price": 416.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2070o-eyeglasses?color=10061700",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2066O",
+        "former_price": 490.0,
+        "current_price": 416.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2066o-eyeglasses?color=10061698",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2035Oa",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2035oa-eyeglasses?color=10061696",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2006OA",
+        "former_price": 545.0,
+        "current_price": 463.25,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2006oa-eyeglasses?color=10061693",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2005OA",
+        "former_price": 415.0,
+        "current_price": 352.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2005oa-eyeglasses?color=10061691",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2004OA",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2004oa-eyeglasses?color=10061689",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2003OJ",
+        "former_price": 445.0,
+        "current_price": 378.25,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2003oj-eyeglasses?color=10061687",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2002OJ",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2002oj-eyeglasses?color=10061685",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG2000OJ",
+        "former_price": 830.0,
+        "current_price": 705.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg2000oj-eyeglasses?color=10061683",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1997O",
+        "former_price": 415.0,
+        "current_price": 290.5,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1997o-eyeglasses?color=10061682",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1996O",
+        "former_price": 415.0,
+        "current_price": 352.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1996o-eyeglasses?color=10061677",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1994O",
+        "former_price": 415.0,
+        "current_price": 352.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1994o-eyeglasses?color=10061674",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1993OK",
+        "former_price": 545.0,
+        "current_price": 463.25,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1993ok-eyeglasses?color=10061672",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1989O",
+        "former_price": 370.0,
+        "current_price": 314.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1989o-eyeglasses?color=10061671",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1988OK",
+        "former_price": 330.0,
+        "current_price": 280.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1988ok-eyeglasses?color=10061668",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1972OA",
+        "former_price": 665.0,
+        "current_price": 565.25,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1972oa-eyeglasses?color=10061666",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1964O",
+        "former_price": 650.0,
+        "current_price": 552.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1964o-eyeglasses?color=10061665",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1961O",
+        "former_price": 575.0,
+        "current_price": 488.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1961o-eyeglasses?color=10061664",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1949OK",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1949ok-eyeglasses?color=10061662",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1947O",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1947o-eyeglasses?color=10061661",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1945O",
+        "former_price": 515.0,
+        "current_price": 437.75,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1945o-eyeglasses?color=10061659",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1938O",
+        "former_price": 545.0,
+        "current_price": 463.25,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1938o-eyeglasses?color=10061657",
+        "page": 8
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1746OA",
+        "former_price": 590.0,
+        "current_price": 501.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1746oa-eyeglasses?color=10061652",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1745OA",
+        "former_price": 560.0,
+        "current_price": 476.0,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1745oa-eyeglasses?color=10061653",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Gucci",
+        "name": "GG1500OK",
+        "former_price": 530.0,
+        "current_price": 450.5,
+        "discount": "15%",
+        "product_link": "https://www.framesdirect.com/gucci-gg1500ok-eyeglasses?color=10061655",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Costa",
+        "name": "Ocean Ridge 730",
+        "former_price": null,
+        "current_price": 197.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/costa-ocean-ridge-730-eyeglasses?color=10061644",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2461D",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2461d-eyeglasses?color=10060703",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2460D",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2460d-eyeglasses?color=10060703",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2459D",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2459d-eyeglasses?color=10056165",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2458",
+        "former_price": 358.0,
+        "current_price": 250.6,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2458-eyeglasses?color=10056160",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2457U",
+        "former_price": 421.0,
+        "current_price": 294.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2457u-eyeglasses?color=10056160",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2452U",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2452u-eyeglasses?color=10060703",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2451U",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2451u-eyeglasses?color=10060703",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2450D",
+        "former_price": 327.0,
+        "current_price": 228.9,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2450d-eyeglasses?color=10056167",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2449D",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2449d-eyeglasses?color=10056169",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2448D",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2448d-eyeglasses?color=10056144",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2447D",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2447d-eyeglasses?color=10056152",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2445F",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2445f-eyeglasses?color=10056170",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2443F",
+        "former_price": 358.0,
+        "current_price": 250.6,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2443f-eyeglasses?color=10056160",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2440F",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2440f-eyeglasses?color=10056143",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2439F",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2439f-eyeglasses?color=10056144",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2438F",
+        "former_price": 311.0,
+        "current_price": 217.7,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2438f-eyeglasses?color=10056144",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2436D",
+        "former_price": 327.0,
+        "current_price": 228.9,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2436d-eyeglasses?color=10056153",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1403D",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1403d-eyeglasses?color=10060882",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1402D",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1402d-eyeglasses?color=10060878",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1401",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1401-eyeglasses?color=10060875",
+        "page": 9
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1399",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1399-eyeglasses?color=10056132",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE1398",
+        "former_price": 390.0,
+        "current_price": 273.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be1398-eyeglasses?color=10056132",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Currency",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-currency-eyeglasses?color=500277",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Tumbleweed",
+        "former_price": null,
+        "current_price": 255.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-tumbleweed-eyeglasses?color=500140",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1184",
+        "former_price": 270.0,
+        "current_price": 189.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1184-eyeglasses?color=497389",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1066",
+        "former_price": 270.0,
+        "current_price": 189.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1066-eyeglasses?color=497351",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5245",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rx5245-eyeglasses?color=497723",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Rhinochaser",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-rhinochaser-eyeglasses?color=496157",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Clubface",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-clubface-eyeglasses?color=473191",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5228",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5228-eyeglasses?color=471952",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5206",
+        "former_price": null,
+        "current_price": 210.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5206-eyeglasses?color=10002080",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE1175B",
+        "former_price": 316.0,
+        "current_price": 221.2,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve1175b-eyeglasses?color=471502",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5169",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5169-eyeglasses?color=422162",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Metal Plate",
+        "former_price": 346.0,
+        "current_price": 173.0,
+        "discount": "50%",
+        "product_link": "https://www.framesdirect.com/oakley-metal-plate-eyeglasses?color=10059667",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Bottle Rocket 4.0",
+        "former_price": null,
+        "current_price": 276.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/oakley-bottle-rocket-4.0-eyeglasses?color=333571",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB7017",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb7017-eyeglasses?color=1",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5286",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5286-eyeglasses?color=4",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Oakley",
+        "name": "Persuasive",
+        "former_price": 183.0,
+        "current_price": 91.5,
+        "discount": "50%",
+        "product_link": "https://www.framesdirect.com/oakley-persuasive-eyeglasses?color=1",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Burberry",
+        "name": "BE2108",
+        "former_price": 265.0,
+        "current_price": 185.5,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/burberry-be2108-eyeglasses?color=1",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5285",
+        "former_price": null,
+        "current_price": 222.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5285-eyeglasses?color=10024344",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5277",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5277-eyeglasses?color=5",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5279",
+        "former_price": null,
+        "current_price": 186.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5279-eyeglasses?color=3",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Ray-Ban",
+        "name": "RB5268",
+        "former_price": null,
+        "current_price": 176.0,
+        "discount": null,
+        "product_link": "https://www.framesdirect.com/ray-ban-rb5268-eyeglasses?color=3",
+        "page": 10
+    },
+    {
+        "source": "framesdirect",
+        "brand": "Versace",
+        "name": "VE3385U",
+        "former_price": 300.0,
+        "current_price": 210.0,
+        "discount": "30%",
+        "product_link": "https://www.framesdirect.com/versace-ve3385u-eyeglasses?color=2",
+        "page": 10
     }
 ]
